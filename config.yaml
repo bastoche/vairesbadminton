@@ -1,0 +1,50 @@
+baseURL: https://usvecbadminton.fr/
+languageCode: fr-fr
+publishDir: .
+theme: hugo-fresh
+title: USVEC badminton
+
+params:
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+   image: logos/fresh.svg
+   link: /
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    title: USVEC badminton
+    subtitle: Club de badminton de Vaires-sur-Marne
+    buttontext: Plus d'infos
+    buttonlink: "#"
+    image: illustrations/worker.svg
+  navbar:
+  - title: Le gymnase
+    url: /
+  - title: Les créneaux
+    url: /  
+  section1:
+    title: Great power comes
+    subtitle: with great responsibility
+    tiles:
+    - title: App builder
+      icon: mouse-globe
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Free trial
+    - title: Cloud integration
+      icon: laptop-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Get started
+    - title: Add-ons & plugins
+      icon: plug-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Get started
+  footer:
+    # Logo (from /images/logos/___)
+    logo: fresh-white-alt.svg    
+    socialmedia:
+    - link: https://facebook.com/#
+      icon: facebook

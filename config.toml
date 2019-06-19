@@ -1,5 +1,0 @@
-baseURL = "https://usvecbadminton.fr"
-languageCode = "fr-fr"
-publishDir = "."
-theme = "ananke"
-title = "USVEC badminton"
