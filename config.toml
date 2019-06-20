@@ -1,4 +1,4 @@
-baseURL = "http://www.bastienduret.com/usvecbad/"
+baseURL = "https://usvecbadminton.fr"
 enableRobotsTXT = true
 languageCode = "fr-fr"
 publishDir = "."
