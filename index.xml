@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accueil on USVECBAD</title>
-    <link>https://usvecbadminton.fr/</link>
+    <link>http://www.bastienduret.com/usvecbad/</link>
     <description>Recent content in Accueil on USVECBAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="https://usvecbadminton.fr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.bastienduret.com/usvecbad/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Inscriptions</title>
-      <link>https://usvecbadminton.fr/sections/signup/</link>
+      <link>http://www.bastienduret.com/usvecbad/sections/signup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://usvecbadminton.fr/sections/signup/</guid>
+      <guid>http://www.bastienduret.com/usvecbad/sections/signup/</guid>
       <description>Les inscriptions auront lieu lors du forum des associations, le dimanche 1er septembre dès 9h.</description>
     </item>
     
     <item>
       <title>Gymnase</title>
-      <link>https://usvecbadminton.fr/sections/gymnasium/</link>
+      <link>http://www.bastienduret.com/usvecbad/sections/gymnasium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://usvecbadminton.fr/sections/gymnasium/</guid>
+      <guid>http://www.bastienduret.com/usvecbad/sections/gymnasium/</guid>
       <description>Les entraînements ont lieu au COSEC de Vaires-sur-Marne, situé au 2 Rue de l&amp;rsquo;Écluse.</description>
     </item>
     
     <item>
       <title>Créneaux</title>
-      <link>https://usvecbadminton.fr/sections/slots/</link>
+      <link>http://www.bastienduret.com/usvecbad/sections/slots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://usvecbadminton.fr/sections/slots/</guid>
+      <guid>http://www.bastienduret.com/usvecbad/sections/slots/</guid>
       <description> Lundi  19h - 20h30 (jeu libre)  Mercredi  21h - 22h30 (entraînement adultes)  Vendredi  19h - 20h30 (jeu libre loisirs) 20h30 - 22h30 (jeu libre compétiteurs)  Samedi  14h - 15h30 (entraînement jeunes) 15h30 - 17h (entraînement jeunes) 17h - 18h30 (jeu libre)  </description>
     </item>
     
