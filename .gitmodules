@@ -7,3 +7,6 @@
 [submodule "themes/hugo-fresh"]
 	path = themes/hugo-fresh
 	url = https://github.com/StefMa/hugo-fresh
+[submodule "themes/terrassa"]
+	path = themes/terrassa
+	url = https://github.com/danielkvist/hugo-terrassa-theme.git

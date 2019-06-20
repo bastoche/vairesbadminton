@@ -1,0 +1,28 @@
+baseURL = "https://usvecbadminton.fr"
+enableRobotsTXT = true
+languageCode = "fr-fr"
+publishDir = "."
+theme = "terrassa"
+title = "USVECBAD" 
+
+[params.separator] # Separators between sections on the home page
+    show = true
+
+[params.cta]
+    show = true
+    cta = "Contact"
+    link = "contact" # Relative URL
+
+[params.form] 
+    action = "https://formspree.io/flarroq@hotmail.com"
+    method = "POST"
+    inputNameName = "name"
+    inputNameLabel = "Nom"
+    inputNamePlaceholder = "Votre nom"
+    inputEmailName = "email"
+    inputEmailLabel = "Email"
+    inputEmailPlaceholder = "Votre email"
+    inputMsgName = "message"
+    inputMsgLabel = "Votre message"
+    inputMsgLength = 750
+    inputSubmitValue = "Envoyer"
