@@ -1,4 +1,4 @@
-baseURL = "https://usvecbadminton.fr"
+baseURL = "https://usvecbadminton.fr/"
 enableRobotsTXT = true
 languageCode = "fr-fr"
 publishDir = "."
@@ -11,7 +11,7 @@ title = "USVECBAD"
 [params.cta]
     show = true
     cta = "Contact"
-    link = "contact" # Relative URL
+    link = "contact"
 
 [params.form] 
     action = "https://formspree.io/flarroq@hotmail.com"
