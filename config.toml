@@ -26,3 +26,6 @@ title = "USVECBAD"
     inputMsgLabel = "Votre message"
     inputMsgLength = 750
     inputSubmitValue = "Envoyer"
+
+[params.hero]
+    textColor = "#fdfdfd"

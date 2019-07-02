@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-images: ["badminton_court_3d.svg"]
+images: ["wallpaper.jpg"]
 menu: main
 weight: 1
 ---
