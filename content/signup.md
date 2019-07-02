@@ -6,11 +6,11 @@ weight: 2
 
 # Nouveaux adhérents
 
-Les inscriptions auront lieu lors du forum des associations, le **dimanche 1er septembre** dès 9h.
+Les inscriptions pour la saison 2019-2020 auront lieu lors du forum des associations, le **dimanche 1er septembre** dès 9h.
 
 # Anciens adhérents
 
-Vous êtes prioritaires pour vous réinscrire jusqu'au **samedi 31 août**, veille du forum des associations. Veuillez pour cela utiliser les documents ci-dessous et les envoyer à l'adresse suivante:
+Vous êtes prioritaires pour vous réinscrire jusqu'au **samedi 31 août**, veille du forum des associations. Veuillez pour cela utiliser les documents ci-dessous et les envoyer à l'adresse suivante :
 
 USVEC Badminton<br />
 11 rue du Bois de la Fontaine<br />
