@@ -1,10 +1,14 @@
 :root {
-  --primary: #7cd9ac;
-  --primary-dark: #81c9a1;
-  --primary-light: #fbfe7d;
+  --primary: #8ab66b;
+  --primary-dark: #398235;
+  --primary-light: #c9de96;
   --primary-text: #212121;
   --secondary-text: #333333;
-  --accent: #536dfe;
+  --accent: #8ab66b;
   --divider: #bdbdbd;
   --white: #fdfdfd;
+}
+
+.copy > p {
+  color: var(--white);
 }

@@ -4,6 +4,8 @@ description: ""
 weight: 3
 ---
 
+La reprise aura lieu le **lundi 2 septembre** pour les adultes, et le **samedi 7 septembre** pour les jeunes.
+
 ## Lundi
 
 - 19h - 20h30 (jeu libre)
