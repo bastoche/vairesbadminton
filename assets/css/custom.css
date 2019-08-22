@@ -12,3 +12,7 @@
 .copy > p {
   color: var(--white);
 }
+
+.hero {
+  background-size: cover;
+}
