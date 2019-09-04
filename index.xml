@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>Inscriptions</title>
-      <link>https://usvecbadminton.fr/sections/signup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://usvecbadminton.fr/sections/signup/</guid>
-      <description>Les inscriptions pour la saison 2019-2020 auront lieu lors du forum des associations, le dimanche 1er septembre dès 9h. Plus de détails ici.</description>
-    </item>
-    
-    <item>
       <title>Gymnase</title>
       <link>https://usvecbadminton.fr/sections/gymnasium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,27 +20,25 @@
     </item>
     
     <item>
-      <title>Inscription</title>
-      <link>https://usvecbadminton.fr/signup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://usvecbadminton.fr/signup/</guid>
-      <description>Nouveaux adhérents Les inscriptions pour la saison 2019-2020 auront lieu lors du forum des associations, le dimanche 1er septembre dès 9h.
-Anciens adhérents Vous êtes prioritaires pour vous réinscrire jusqu&amp;rsquo;au samedi 31 août, veille du forum des associations. Veuillez pour cela utiliser les documents ci-dessous et les envoyer à l&amp;rsquo;adresse suivante :
-USVEC Badminton
-11 rue du Bois de la Fontaine
-77360 Vaires-sur-Marne
-Fiches d&amp;rsquo;inscription  adultes jeunes  Licence Formulaire de demande de licence</description>
-    </item>
-    
-    <item>
       <title>Créneaux</title>
       <link>https://usvecbadminton.fr/sections/slots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://usvecbadminton.fr/sections/slots/</guid>
-      <description> La reprise aura lieu le lundi 2 septembre pour les adultes, et le samedi 7 septembre pour les jeunes.
+      <description> La reprise a lieu le lundi 2 septembre pour les adultes, et le samedi 7 septembre pour les jeunes.
 Lundi  19h - 20h30 (jeu libre)  Mercredi  21h - 22h30 (entraînement adultes)  Vendredi  19h - 20h30 (jeu libre loisirs) 20h30 - 22h30 (jeu libre compétiteurs)  Samedi  14h - 15h30 (entraînement jeunes) 15h30 - 17h (entraînement jeunes) 17h - 18h30 (jeu libre)  </description>
+    </item>
+    
+    <item>
+      <title>Inscription</title>
+      <link>https://usvecbadminton.fr/signup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://usvecbadminton.fr/signup/</guid>
+      <description>Les inscriptions pour la saison 2019-2020 ont eu lieu lors du forum des associations, le dimanche 1er septembre. Pour vous inscrire en cours d&amp;rsquo;année, adressez-vous à un membre du bureau lors d&amp;rsquo;un créneau.
+Fiches d&amp;rsquo;inscription  adultes jeunes  Licence Formulaire de demande de licence
+Certificat médical Si votre certicat médical date de 2016, il faudra en donner un nouveau.
+S&amp;rsquo;il est plus récent, il vous suffit de répondre non à toutes les questions du questionnaire de santé.</description>
     </item>
     
   </channel>
