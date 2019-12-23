@@ -1,6 +1,5 @@
 ---
 title: "Gymnase"
-description: ""
 weight: 1
 ---
 

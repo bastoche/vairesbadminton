@@ -1,7 +1,6 @@
 ---
 title: "Créneaux"
-description: ""
-weight: 2
+weight: 3
 ---
 
 La reprise a lieu le **lundi 2 septembre** pour les adultes, et le **samedi 7 septembre** pour les jeunes.
