@@ -3,7 +3,7 @@ title: "Créneaux"
 weight: 2
 ---
 
-Reprise mercredi 22 juin, avec une limite de 13 personnes maximum dans la salle. Veillez à bien respecter les [consignes de la FFBAD](/files/reprise.pdf).
+Reprise mercredi 24 juin, avec une limite de 13 personnes maximum dans la salle. Veillez à bien respecter les [consignes de la FFBAD](/files/reprise.pdf).
 
 ## Lundi
 
