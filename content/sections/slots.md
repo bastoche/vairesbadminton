@@ -3,20 +3,23 @@ title: "Créneaux"
 weight: 2
 ---
 
-Reprise mercredi 24 juin, avec une limite de 13 personnes maximum dans la salle. Veillez à bien respecter les [consignes de la FFBAD](/files/reprise.pdf).
+La reprise aura lieu le **lundi 7 septembre** pour les adultes, et le **samedi 12 septembre** pour les jeunes.
 
 ## Lundi
 
-- 18h - 21h (jeu libre)
+- 19h - 20h30 (jeu libre)
 
 ## Mercredi
 
-- 18h - 21h (jeu libre)
+- 21h - 22h30 (entraînement adultes)
 
 ## Vendredi
 
-- 18h - 21h (jeu libre)
+- 19h - 20h30 (jeu libre loisirs)
+- 20h30 - 22h30 (jeu libre compétiteurs)
 
 ## Samedi
 
+- 14h - 15h30 (entraînement jeunes)
+- 15h30 - 17h (entraînement jeunes)
 - 17h - 18h30 (jeu libre)
