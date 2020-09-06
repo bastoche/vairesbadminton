@@ -19,7 +19,7 @@ Pour le jeu libre, il n'est pas nécessaire de venir à plusieurs: vous pourrez 
 
 ## Entraînement
 
-L'entraînement du mercredi est assuré par Christophe, c'est le seul créneau qui requiert de l'assiduité. Chrisophe nous permet par ailleurs d'avoir des tarifs préférentiels sur les produits Victor: t-shirts, volants, etc.
+L'entraînement du mercredi est assuré par Christophe, c'est le seul créneau qui requiert de l'assiduité. Christophe nous permet par ailleurs d'avoir des tarifs préférentiels sur les produits Victor: t-shirts, volants, etc.
 
 ## Interclubs
 
