@@ -20,6 +20,6 @@ La reprise a lieu le **lundi 7 septembre** pour les adultes, et le **samedi 12 s
 
 ## Samedi
 
-- 14h - 15h30 (entraînement jeunes)
-- 15h30 - 17h (entraînement jeunes)
+- 14h - 15h30 (entraînement jeunes 1)
+- 15h30 - 17h (entraînement jeunes 2)
 - 17h - 18h30 (jeu libre)
