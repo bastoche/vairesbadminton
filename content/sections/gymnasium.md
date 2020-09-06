@@ -1,6 +1,6 @@
 ---
 title: "Gymnase"
-weight: 1
+weight: 3
 ---
 
-Les entraînements ont lieu au COSEC de Vaires-sur-Marne, situé au [2 Rue de l'Écluse](https://www.openstreetmap.org/#map=19/48.86978/2.64950).
+La salle est située au COSEC de Vaires-sur-Marne, [2 Rue de l'Écluse](https://www.openstreetmap.org/#map=19/48.86978/2.64950).

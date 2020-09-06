@@ -3,7 +3,7 @@ title: "Créneaux"
 weight: 2
 ---
 
-La reprise aura lieu le **lundi 7 septembre** pour les adultes, et le **samedi 12 septembre** pour les jeunes.
+La reprise a lieu le **lundi 7 septembre** pour les adultes, et le **samedi 12 septembre** pour les jeunes.
 
 ## Lundi
 
@@ -11,12 +11,12 @@ La reprise aura lieu le **lundi 7 septembre** pour les adultes, et le **samedi 1
 
 ## Mercredi
 
-- 21h - 22h30 (entraînement adultes)
+- 21h - 22h30 (entraînement adultes, assiduité requise)
 
 ## Vendredi
 
-- 19h - 20h30 (jeu libre loisirs)
-- 20h30 - 22h30 (jeu libre compétiteurs)
+- 19h - 20h30 (jeu libre)
+- 20h30 - 22h30 (jeu libre)
 
 ## Samedi
 

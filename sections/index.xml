@@ -11,12 +11,13 @@
     
     
     <item>
-      <title>Gymnase</title>
-      <link>https://usvecbadminton.fr/sections/gymnasium/</link>
+      <title>Sections</title>
+      <link>https://usvecbadminton.fr/sections/sections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://usvecbadminton.fr/sections/gymnasium/</guid>
-      <description>Les entraînements ont lieu au COSEC de Vaires-sur-Marne, situé au 2 Rue de l&amp;rsquo;Écluse.</description>
+      <guid>https://usvecbadminton.fr/sections/sections/</guid>
+      <description>Le club est constitué de deux sections: une section jeunes et une section adultes.
+Jeunes La section jeunes est encadrée par Alexandre. En plus d&amp;rsquo;assurer leurs entraînements, il organise avant chaque vacance scolaire un tournoi interne suivi d&amp;rsquo;un goûter, et en fin d&amp;rsquo;année un passage de plume avec remise de diplômes. Les jeunes ont la possibilité de participer à des tournois en Seine-et-Marne, pris en charge par le club, afin de s&amp;rsquo;initier à la compétition.</description>
     </item>
     
     <item>
@@ -25,8 +26,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://usvecbadminton.fr/sections/slots/</guid>
-      <description>La reprise aura lieu le lundi 7 septembre pour les adultes, et le samedi 12 septembre pour les jeunes.
-Lundi  19h - 20h30 (jeu libre)  Mercredi  21h - 22h30 (entraînement adultes)  Vendredi  19h - 20h30 (jeu libre loisirs) 20h30 - 22h30 (jeu libre compétiteurs)  Samedi  14h - 15h30 (entraînement jeunes) 15h30 - 17h (entraînement jeunes) 17h - 18h30 (jeu libre)  </description>
+      <description>La reprise a lieu le lundi 7 septembre pour les adultes, et le samedi 12 septembre pour les jeunes.
+Lundi  19h - 20h30 (jeu libre)  Mercredi  21h - 22h30 (entraînement adultes, assiduité requise)  Vendredi  19h - 20h30 (jeu libre) 20h30 - 22h30 (jeu libre)  Samedi  14h - 15h30 (entraînement jeunes) 15h30 - 17h (entraînement jeunes) 17h - 18h30 (jeu libre)  </description>
+    </item>
+    
+    <item>
+      <title>Gymnase</title>
+      <link>https://usvecbadminton.fr/sections/gymnasium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://usvecbadminton.fr/sections/gymnasium/</guid>
+      <description>La salle est située au COSEC de Vaires-sur-Marne, 2 Rue de l&amp;rsquo;Écluse.</description>
     </item>
     
   </channel>
