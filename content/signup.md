@@ -1,7 +1,7 @@
 ---
 title: "Inscription"
 menu: main
-weight: 2
+weight: 3
 ---
 
 Les inscriptions pour la saison 2020-2021 ont eu lieu lors du forum des associations. Pour vous inscrire en cours d'année, adressez-vous à un membre du bureau lors d'un créneau.

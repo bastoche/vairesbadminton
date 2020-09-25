@@ -3,7 +3,7 @@ enableRobotsTXT = true
 languageCode = "fr-fr"
 publishDir = "."
 theme = "terrassa"
-title = "USVECBAD" 
+title = "USVECBAD"
 
 [params.separator] # Separators between sections on the home page
     show = true
@@ -29,3 +29,8 @@ title = "USVECBAD"
 
 [params.hero]
     textColor = "#fdfdfd"
+
+[params.posts]
+    showAuthor = false
+    showDate = false
+    showTags = true

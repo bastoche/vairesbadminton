@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://usvecbadminton.fr/</loc>
+    <lastmod>2020-09-25T14:07:58+02:00</lastmod>
   </url>
   
   <url>
@@ -11,7 +12,16 @@
   </url>
   
   <url>
+    <loc>https://usvecbadminton.fr/posts/</loc>
+    <lastmod>2020-09-25T14:07:58+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://usvecbadminton.fr/sections/slots/</loc>
+  </url>
+  
+  <url>
+    <loc>https://usvecbadminton.fr/sections/gymnasium/</loc>
   </url>
   
   <url>
@@ -19,7 +29,37 @@
   </url>
   
   <url>
-    <loc>https://usvecbadminton.fr/sections/gymnasium/</loc>
+    <loc>https://usvecbadminton.fr/sections/board/</loc>
+  </url>
+  
+  <url>
+    <loc>https://usvecbadminton.fr/tags/2020/</loc>
+    <lastmod>2020-09-25T14:07:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usvecbadminton.fr/tags/ag/</loc>
+    <lastmod>2020-09-25T14:07:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usvecbadminton.fr/posts/generalmeeting2020/</loc>
+    <lastmod>2020-09-25T14:07:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usvecbadminton.fr/tags/</loc>
+    <lastmod>2020-09-25T14:07:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usvecbadminton.fr/tags/interclubs/</loc>
+    <lastmod>2020-09-25T13:46:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usvecbadminton.fr/posts/interclubs2020/</loc>
+    <lastmod>2020-09-25T13:46:13+02:00</lastmod>
   </url>
   
   <url>
@@ -32,10 +72,6 @@
   
   <url>
     <loc>https://usvecbadminton.fr/sections/</loc>
-  </url>
-  
-  <url>
-    <loc>https://usvecbadminton.fr/tags/</loc>
   </url>
   
 </urlset>
