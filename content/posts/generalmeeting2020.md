@@ -11,9 +11,9 @@ Chaque adhérent a la possibilité d'y participer, voire de se présenter pour o
 
 Voici l'ordre du jour prévu :
 
-1. Rapport Moral
-2. Rapport Sportif
-3. Rapport Financier
-4. Election des membres du bureau
+1. Rapport moral
+2. Rapport sportif
+3. Rapport financier
+4. Élection des membres du bureau
 5. Perspectives d'évolution
 6. Questions diverses
