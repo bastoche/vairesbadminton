@@ -6,7 +6,7 @@
     <description>Recent content in Tags on USVECBAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 25 Sep 2020 14:07:58 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 13:41:01 +0200</lastBuildDate>
     
 	<atom:link href="https://usvecbadminton.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>2020</title>
       <link>https://usvecbadminton.fr/tags/2020/</link>
-      <pubDate>Fri, 25 Sep 2020 14:07:58 +0200</pubDate>
+      <pubDate>Wed, 21 Oct 2020 13:41:01 +0200</pubDate>
       
       <guid>https://usvecbadminton.fr/tags/2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid</title>
+      <link>https://usvecbadminton.fr/tags/covid/</link>
+      <pubDate>Wed, 21 Oct 2020 13:41:01 +0200</pubDate>
+      
+      <guid>https://usvecbadminton.fr/tags/covid/</guid>
       <description></description>
     </item>
     
