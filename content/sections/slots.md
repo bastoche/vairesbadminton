@@ -3,23 +3,23 @@ title: "Créneaux"
 weight: 2
 ---
 
-La reprise a lieu le **lundi 7 septembre** pour les adultes, et le **samedi 12 septembre** pour les jeunes.
+Le gymnase est ouvert jusqu'au 9 juillet inclus.
 
-## Lundi
+## Lundi (petite salle)
 
-- 19h - 20h30 (jeu libre)
+- 19h - 20h30 (jeu libre adultes)
 
-## Mercredi
+## Mercredi (petite salle)
 
 - 21h - 22h30 (entraînement adultes, assiduité requise)
 
-## Vendredi
+## Jeudi (grande salle)
 
-- 19h - 20h30 (jeu libre)
-- 20h30 - 22h30 (jeu libre)
+- 19h - 20h30 (entraînement jeunes)
+- 20h30 - 22h30 (jeu libre adultes)
 
-## Samedi
+## Samedi (petite salle)
 
 - 14h - 15h30 (entraînement jeunes 1)
 - 15h30 - 17h (entraînement jeunes 2)
-- 17h - 18h30 (jeu libre)
+- 17h - 18h30 (jeu libre adultes)

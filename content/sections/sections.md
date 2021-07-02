@@ -17,7 +17,7 @@ Nous accueillons des joueuses et des joueurs de tous niveaux, sur tous les crén
 
 ### Jeu libre
 
-Pour le jeu libre, il n'est pas nécessaire de venir à plusieurs: vous pourrez trouver des partenaires et des adversaires sur place. Si les 4 terrains sont pleins, une rotation sera mise en place pour maximiser le temps de jeu de chacun. Des volants en plastique sont mis à disposition par le club, et nous prêtons des raquettes pour ceux qui n'en ont pas.
+Pour le jeu libre, il n'est pas nécessaire de venir à plusieurs: vous pourrez trouver des partenaires et des adversaires sur place. Si les terrains sont pleins, une rotation sera mise en place pour maximiser le temps de jeu de chacun. Des volants en plastique sont mis à disposition par le club, et nous prêtons des raquettes pour ceux qui n'en ont pas.
 
 ### Entraînement
 
@@ -25,4 +25,4 @@ L'entraînement du mercredi est assuré par Christophe. C'est le seul créneau q
 
 ### Interclubs
 
-Deux équipes participent aux interclubs de Seine-et-Marne, et rencontrent plusieurs fois dans l'année les équipes des clubs des environs: [Chelles](https://chelles-badminton.fr/), [Lagny](https://www.lvlm77.fr/), [Thorigny](https://ajtbad77.fr/)... Les rencontres ont lieu le soir en semaine, et sont l'occasion de s'initier à la pratique compétitive. Lorsque le club reçoit, la rencontre a lieu le vendredi à 20h30 et est suivie d'un moment de convivialité.
+Des équipes participent aux interclubs de Seine-et-Marne, et rencontrent plusieurs fois dans l'année les équipes des clubs des environs: [Chelles](https://chelles-badminton.fr/), [Lagny](https://www.lvlm77.fr/), [Thorigny](https://ajtbad77.fr/)... Les rencontres ont lieu le soir en semaine, et sont l'occasion de s'initier à la pratique compétitive. Lorsque le club reçoit, la rencontre est suivie d'un moment de convivialité.
