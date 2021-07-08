@@ -6,18 +6,15 @@ weight: 3
 
 Les inscriptions pour la saison 2021-2022 auront lieu lors du forum des associations. Pour vous inscrire en cours d'année, adressez-vous à un membre du bureau lors d'un créneau.
 
-# Fiches d'inscription
+# Jeunes
 
-- [adultes](/files/adultes.pdf)
-- [jeunes](/files/jeunes.pdf)
+- [fiche d'inscription](/files/jeunes.pdf)
+- [formulaire de demande de licence](/files/licence_2021_mineurs.pdf)
+- [questionnaire de santé](/files/qs.pdf)
 
-# Formulaires de demande de licence
+# Adultes
 
-- [adultes](/files/licence_2021_adultes.pdf)
-- [jeunes](/files/licence_2021_mineurs.pdf)
-
-# Certificat médical
-
-Si votre certicat médical date de 2018 ou avant, il faudra en donner un [nouveau](/files/certificat.pdf).
-
-S'il est plus récent, il vous suffit de répondre non à toutes les questions du [questionnaire de santé](/files/qs.pdf).
+- [fiche d'inscription](/files/adultes.pdf)
+- [formulaire de demande de licence](/files/licence_2021_adultes.pdf)
+- [certificat médical](/files/certificat.pdf) (si votre certicat médical date de 2018 ou avant)
+- [questionnaire de santé](/files/qs.pdf) (si votre certificat médical est suffisamment récent)
