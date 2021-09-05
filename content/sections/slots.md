@@ -3,7 +3,7 @@ title: "Créneaux"
 weight: 2
 ---
 
-Le gymnase est ouvert jusqu'au 9 juillet inclus.
+Reprise dès le lundi 6 septembre 2021, avec 4 créneaux pour les adultes et 2 créneaux pour les jeunes !
 
 ## Lundi (petite salle)
 

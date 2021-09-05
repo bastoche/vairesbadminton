@@ -7,9 +7,9 @@ Le club est constitué de deux sections: une section **jeunes** et une section *
 
 ## Jeunes
 
-La section jeunes est encadrée par Alexandre. Elle se découpe en deux sous-sections par tranche d'âge : **jeunes 1** entre **8 et 12 ans** et **jeunes 2** entre **12 et 16 ans**.
+La section jeunes est encadrée par Alexandre le samedi et Baptiste le jeudi. Elle se découpe en deux sous-sections par tranche d'âge : **jeunes 1** entre **8 et 12 ans** et **jeunes 2** entre **12 et 16 ans**.
 
-En plus d'assurer leurs entraînements, il organise avant chaque période de vacances scolaires un tournoi interne suivi d'un goûter, et en fin d'année un passage de plume avec remise de diplômes. Les jeunes ont la possibilité de participer à des tournois en Seine-et-Marne, pris en charge par le club, afin de s'initier à la compétition.
+En plus d'assurer leurs entraînements, ils organisent avant chaque période de vacances scolaires un tournoi interne suivi d'un goûter, et en fin d'année un passage de plume avec remise de diplômes. Les jeunes ont la possibilité de participer à des tournois en Seine-et-Marne, pris en charge par le club, afin de s'initier à la compétition.
 
 ## Adultes
 
