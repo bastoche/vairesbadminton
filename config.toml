@@ -10,8 +10,8 @@ title = "USVECBAD"
 
 [params.cta]
     show = true
-    cta = "Contact"
-    link = "contact"
+    cta = "Inscription"
+    link = "signup"
 
 [params.form] 
     action = "https://formspree.io/flarroq@hotmail.com"
