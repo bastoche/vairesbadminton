@@ -5,7 +5,7 @@ publishDate: 2020-09-25T13:46:13+02:00
 tags: ["interclubs", "2020"]
 ---
 
-Chaque années, l'USVECBAD inscrit plusieurs équipes aux Championnats Interclubs Départementaux. Cette compétition fait s'affronter entre novembre et avril les différents clubs de badminton du département. Les rencontres ont lieu une fois par semaine, entre 20h30 et 22h30. C'est l'occasion de pratiquer le badminton de manière compétitive et conviviale, chaque rencontre étant traditionnellement suivie d'un pot. Les rencontres à domicile ont lieu le vendredi.
+Chaque année, l'USVECBAD inscrit plusieurs équipes aux Championnats Interclubs Départementaux. Cette compétition fait s'affronter entre novembre et avril les différents clubs de badminton du département. Les rencontres ont lieu une fois par semaine, entre 20h30 et 22h30. C'est l'occasion de pratiquer le badminton de manière compétitive et conviviale, chaque rencontre étant traditionnellement suivie d'un pot. Les rencontres à domicile ont lieu le vendredi.
 
 Il y a deux championnats: un championnat Mixte et un championnat Masculin. Ils sont tous les deux ouverts aux débutants.
 
