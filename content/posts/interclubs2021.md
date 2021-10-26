@@ -15,7 +15,7 @@ Pour ceux qui ne sont pas familiers du système et qui n'ont pas envie de lire [
 
 Le capitaine constitue son équipe à partir des joueurs disponibles, en essayant de maximiser les chances de victoire et de donner l'opportunité de jouer à tout le monde.
 
-Pour une équipe mixte, il faut au moins 2 femmes et 3 hommes pour 7 matchs :
+Pour une équipe mixte, il faut au moins 2 joueuses et 3 joueurs pour 7 matchs :
 - 1 simple dame
 - 1 double dames
 - 1 double mixte
