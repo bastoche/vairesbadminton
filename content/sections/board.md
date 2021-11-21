@@ -9,7 +9,7 @@ Le bureau est actuellement composé de :
 - Laurent Frérot, trésorier
 - Bastien Duret, secrétaire
 - Barbosa Miguel
-- Brunet-Le Marec Romane
+- Dupetit Romane
 - Daboval Thibaut
 - Moïoli David
 
