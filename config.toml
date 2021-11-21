@@ -5,7 +5,11 @@ publishDir = "."
 theme = "terrassa"
 title = "USVECBAD"
 
-[params.separator] # Separators between sections on the home page
+[params]
+    favicon = "/images/favicon.ico"
+
+
+[params.separator]
     show = true
 
 [params.cta]
