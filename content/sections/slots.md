@@ -3,7 +3,7 @@ title: "Créneaux"
 weight: 2
 ---
 
-Reprise dès le lundi 6 septembre 2021, avec 4 créneaux pour les adultes et 2 créneaux pour les jeunes !
+Reprise le lundi 29 août pour les adultes, 1er créneau pour les jeunes le 8 septembre
 
 ## Lundi (petite salle)
 
