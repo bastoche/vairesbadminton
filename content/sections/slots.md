@@ -5,20 +5,20 @@ weight: 2
 
 Reprise le lundi 29 août pour les adultes, 1er créneau pour les jeunes le 8 septembre
 
-## Lundi (petite salle)
+## Lundi (nouvelle salle)
 
-- 19h - 20h30 (jeu libre adultes)
+- 19h - 20h30 => jeu libre adultes
 
-## Mercredi (petite salle)
+## Mercredi (nouvelle salle)
 
-- 21h - 22h30 (entraînement adultes, assiduité requise)
+- 20h30 - 22h30 => entraînement adultes, assiduité requise
 
-## Jeudi (grande salle)
+## Jeudi
 
-- 19h - 20h30 (entraînement jeunes)
-- 20h30 - 22h30 (jeu libre adultes)
+- 19h - 20h30 => entraînement jeunes (nouvelle salle)
+- 20h30 - 22h30 => jeu libre adultes (salle Olivier Girault)
 
-## Samedi (petite salle)
+## Samedi (nouvelle salle)
 
 - 14h - 15h30 (entraînement jeunes 1)
 - 15h30 - 17h (entraînement jeunes 2)
