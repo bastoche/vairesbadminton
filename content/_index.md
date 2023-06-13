@@ -5,6 +5,6 @@ menu: main
 weight: 1
 ---
 
-# USVECBAD
+# Vaires Badminton
 
 ## Club de badminton de Vaires-sur-Marne

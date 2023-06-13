@@ -1,9 +1,9 @@
-baseURL = "https://usvecbadminton.fr/"
+baseURL = "https://vairesbadminton.fr/"
 enableRobotsTXT = true
 languageCode = "fr-fr"
 publishDir = "."
 theme = "terrassa"
-title = "USVECBAD"
+title = "Vaires Badminton"
 
 [params]
     favicon = "/images/favicon.ico"
