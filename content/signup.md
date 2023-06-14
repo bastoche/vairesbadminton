@@ -8,13 +8,13 @@ Les inscriptions pour la saison 2023-2024 auront lieu lors du forum des associat
 
 # Jeunes
 
-- [fiche d'inscription](/files/inscription_2022_jeunes.pdf)
+- [fiche d'inscription](/files/inscription_jeunes_2023.pdf)
 - [formulaire de demande de licence](/files/licence_2022_mineurs.pdf)
 - [questionnaire de santé](/files/qs.pdf)
 
 # Adultes
 
-- [fiche d'inscription](/files/inscription_2022_adultes.pdf)
+- [fiche d'inscription](/files/inscription_adultes_2023.pdf)
 - [formulaire de demande de licence](/files/licence_2022_adultes.pdf)
 - [certificat médical](/files/certificat.pdf) (si votre certicat médical date de 2020 ou avant)
 - [questionnaire de santé](/files/qs.pdf) (si votre certificat médical date de 2021 ou après)
