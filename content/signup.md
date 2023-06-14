@@ -23,6 +23,6 @@ Les inscriptions pour la saison 2023-2024 auront lieu lors du forum des associat
 
 En tant que membre du club, vous pouvez vous pré-inscrire, et ainsi être prioritaire, en déposant votre dossier avant le 2 septembre 2023 à l'adresse suivante:
 
-Usvec Badminton
+Vaires Badminton
 9 rue de Pomponne
 77360 Vaires-sur-Marne
