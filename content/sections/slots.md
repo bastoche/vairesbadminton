@@ -3,7 +3,7 @@ title: "Créneaux"
 weight: 2
 ---
 
-Reprise le lundi 29 août pour les adultes, 1er créneau pour les jeunes le 8 septembre
+Reprise le 4 septembre pour les adultes, 1er créneau pour les jeunes le 9 septembre
 
 ## Lundi (nouvelle salle)
 
@@ -11,7 +11,7 @@ Reprise le lundi 29 août pour les adultes, 1er créneau pour les jeunes le 8 se
 
 ## Mercredi (nouvelle salle)
 
-- 20h30 - 22h30 => entraînement adultes, assiduité requise
+- 20h30 - 22h30 => entraînement adultes
 
 ## Jeudi
 

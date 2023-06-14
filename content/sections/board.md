@@ -8,6 +8,8 @@ Le bureau est actuellement composé de :
 - Franck Larroque, président
 - Laurent Frérot, trésorier
 - Bastien Duret, secrétaire
+- Artemoff Lauren
+- Baillod Jean-François
 - Barbosa Miguel
 - Daboval Thibaut
 - Dupetit Romane
