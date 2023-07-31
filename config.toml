@@ -17,8 +17,8 @@ title = "Vaires Badminton"
     cta = "Inscription"
     link = "signup"
 
-[params.form] 
-    action = "https://formspree.io/flarroq@hotmail.com"
+[params.form]
+    action = "https://formspree.io/f/xqkvepgq"
     method = "POST"
     inputNameName = "name"
     inputNameLabel = "Nom"
