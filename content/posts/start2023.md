@@ -10,7 +10,7 @@ tags: ["2023"]
 C'est sous le nom d'US Vaires Badminton que nous effectuerons notre rentrée pour la saison 2023-2024 !
 
 En voici les moments clés :
-- 3 septembre, 9h, forum des associations
+- 3 septembre, 10h, forum des associations
 - 6 septembre, 20h30, premier créneau adultes, jeu libre
 - 7 septembre, 19h, premier créneau jeunes avec Baptiste
 - 9 septembre, 14h, premier créneau jeunes avec Théo
