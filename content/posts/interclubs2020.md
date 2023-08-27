@@ -2,6 +2,7 @@
 title: "Interclubs 2020-2021"
 date: 2020-09-25T13:46:13+02:00
 publishDate: 2020-09-25T13:46:13+02:00
+author: "Bastien Duret"
 tags: ["interclubs", "2020"]
 ---
 

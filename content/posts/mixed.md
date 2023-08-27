@@ -2,6 +2,7 @@
 title: "Le double mixte"
 date: 2021-11-14T13:48:56+01:00
 publishDate: 2021-11-14T13:48:56+01:00
+author: "Bastien Duret"
 tags: ["interclubs", "double", "mixte"]
 ---
 

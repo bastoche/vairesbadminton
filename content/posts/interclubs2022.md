@@ -2,6 +2,7 @@
 title: "Interclubs 2022-2023"
 date: 2023-06-14T10:00:35+02:00
 publishDate: 2023-06-14T10:00:35+02:00
+author: "Bastien Duret"
 tags: ["interclubs", "2022"]
 ---
 

@@ -2,6 +2,7 @@
 title: "Interclubs 2021-2022"
 date: 2021-10-26T19:36:05+02:00
 publishDate: 2021-10-26T19:36:05+02:00
+author: "Bastien Duret"
 tags: ["interclubs", "2021"]
 ---
 

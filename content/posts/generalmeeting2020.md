@@ -2,6 +2,7 @@
 title: "Assemblée générale 2020"
 date: 2020-09-25T14:07:58+02:00
 publishDate: 2020-09-25T14:07:58+02:00
+author: "Bastien Duret"
 tags: ["ag", "2020"]
 ---
 

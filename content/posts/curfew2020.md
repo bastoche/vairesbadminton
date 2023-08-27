@@ -2,6 +2,7 @@
 title: "Couvre-feu 2020"
 date: 2020-10-21T13:41:01+02:00
 publishDate: 2020-10-21T13:41:01+02:00
+author: "Bastien Duret"
 tags: ["covid", "2020"]
 ---
 
