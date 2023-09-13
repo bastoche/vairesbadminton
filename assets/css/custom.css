@@ -1,10 +1,10 @@
 :root {
-  --primary: #d31a3a;
-  --primary-dark: #d31a3a;
-  --primary-light: #d31a3a;
+  --primary: #ff3131;
+  --primary-dark: #ff3131;
+  --primary-light: #d3ff31311a3a;
   --primary-text: #212121;
   --secondary-text: #333333;
-  --accent: #d31a3a;
+  --accent: #ff3131;
   --divider: #bdbdbd;
   --white: #fdfdfd;
 }
@@ -22,12 +22,12 @@ ul {
   padding: revert;
 }
 
-.post__body>ul {
+.post__body > ul {
   margin-left: 0;
 }
 
-
-nav>ul, footer>ul {
+nav > ul, footer > ul, .hamburger-menu ul {
   list-style: none;
+  padding: 0;
 }
 
