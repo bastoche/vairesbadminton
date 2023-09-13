@@ -16,3 +16,18 @@
 .hero {
   background-size: cover;
 }
+
+ul {
+  list-style: disc;
+  padding: revert;
+}
+
+.post__body>ul {
+  margin-left: 0;
+}
+
+
+nav>ul, footer>ul {
+  list-style: none;
+}
+
