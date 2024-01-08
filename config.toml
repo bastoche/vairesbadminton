@@ -12,11 +12,6 @@ title = "Vaires Badminton"
 [params.separator]
     show = true
 
-[params.cta]
-    show = true
-    cta = "Inscription"
-    link = "signup"
-
 [params.form]
     action = "https://formspree.io/f/xqkvepgq"
     method = "POST"
