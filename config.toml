@@ -33,3 +33,6 @@ title = "Vaires Badminton"
     showAuthor = false
     showDate = false
     showTags = true
+
+[markup.goldmark.renderer]
+  unsafe = true
