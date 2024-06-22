@@ -7,7 +7,7 @@ Le club est constitué de deux sections: une section **jeunes** et une section *
 
 ## Jeunes
 
-La section jeunes est encadrée par Théo le samedi et Baptiste le jeudi. Elle se découpe en deux sous-sections par tranche d'âge : **jeunes 1** entre **8 et 12 ans** et **jeunes 2** entre **12 et 16 ans**.
+La section jeunes est encadrée par Jimmy le samedi et Baptiste le jeudi.
 
 En plus d'assurer leurs entraînements, ils organisent avant chaque période de vacances scolaires un tournoi interne suivi d'un goûter, et en fin d'année un passage de plume avec remise de diplômes. Les jeunes ont la possibilité de participer à des tournois en Seine-et-Marne, pris en charge par le club, afin de s'initier à la compétition.
 
@@ -21,7 +21,7 @@ Pour le jeu libre, il n'est pas nécessaire de venir à plusieurs: vous pourrez 
 
 ### Entraînement
 
-L'entraînement du mercredi est assuré par Christophe. C'est le seul créneau qui requiert de l'assiduité. Christophe nous permet par ailleurs d'avoir des tarifs préférentiels sur des produits Victor: t-shirts, volants, etc.
+L'entraînement du mercredi est le seul créneau qui requiert de l'assiduité.
 
 ### Interclubs
 

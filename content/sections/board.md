@@ -5,14 +5,14 @@ weight: 4
 
 Le bureau est actuellement composé de :
 
-- Franck Larroque, président
+- Quentin Dehayes, président
 - Laurent Frérot, trésorier
+- David Moïoli, trésorier adjoint
 - Bastien Duret, secrétaire
-- Artemoff Lauren
-- Baillod Jean-François
-- Barbosa Miguel
-- Daboval Thibaut
-- Dupetit Romane
-- Moïoli David
+- Romane Dupetit, secrétaire adjointe
+- Marie Chevalier, membre
+- Kévin Bénito, membre
+- Frédéric Campos, membre
+- Grégory Morel, membre
 
 N'hésitez pas à vous rapprocher d'eux pour toute question.
