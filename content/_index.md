@@ -17,4 +17,7 @@ weight: 1
     <a href="https://www.mutuellemgc.fr" target="_blank">
         <img src="images/logo_mgc.jpg" alt="Mutuelle MGC">
     </a>
+    <a href="https://www.lamaisondubadminton.com/" target="_blank">
+        <img src="images/logo_victor.jpg" alt="La maison du badminton">
+    </a>
 </div>
