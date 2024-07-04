@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mixte on Vaires Badminton</title>
-    <link>https://vairesbadminton.fr/tags/mixte/</link>
+    <link>http://localhost:1313/tags/mixte/</link>
     <description>Recent content in Mixte on Vaires Badminton</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 14 Nov 2021 13:48:56 +0100</lastBuildDate>
-    <atom:link href="https://vairesbadminton.fr/tags/mixte/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mixte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le double mixte</title>
-      <link>https://vairesbadminton.fr/posts/mixed/</link>
+      <link>http://localhost:1313/posts/mixed/</link>
       <pubDate>Sun, 14 Nov 2021 13:48:56 +0100</pubDate>
-      <guid>https://vairesbadminton.fr/posts/mixed/</guid>
+      <guid>http://localhost:1313/posts/mixed/</guid>
       <description>Pour la première fois cette année, nous engageons une équipe mixte en interclubs. C&amp;rsquo;est l&amp;rsquo;occasion pour nous d&amp;rsquo;approfondir certaines pratiques, comme le double mixte.&#xA;Un peu d&amp;rsquo;histoire Selon wikipedia, la première compétition majeure à inclure le double mixte fut le All England de 1899. Il a fallu attendre 1977 pour voir un tournoi de double mixte aux championnats du monde à Malmö en Suède, remporté par les danois Lene Køppen et Steen Skovgaard.</description>
     </item>
   </channel>

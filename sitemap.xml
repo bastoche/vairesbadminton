@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vairesbadminton.fr/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-08-27T22:05:07+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/sections/sections/</loc>
+    <loc>http://localhost:1313/sections/sections/</loc>
   </url><url>
-    <loc>https://vairesbadminton.fr/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-08-27T22:05:07+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/sections/slots/</loc>
+    <loc>http://localhost:1313/sections/slots/</loc>
   </url><url>
-    <loc>https://vairesbadminton.fr/sections/gymnasium/</loc>
+    <loc>http://localhost:1313/sections/gymnasium/</loc>
   </url><url>
-    <loc>https://vairesbadminton.fr/signup/</loc>
+    <loc>http://localhost:1313/signup/</loc>
   </url><url>
-    <loc>https://vairesbadminton.fr/sections/board/</loc>
+    <loc>http://localhost:1313/sections/board/</loc>
   </url><url>
-    <loc>https://vairesbadminton.fr/tags/2023/</loc>
+    <loc>http://localhost:1313/tags/2023/</loc>
     <lastmod>2023-08-27T22:05:07+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/posts/start2023/</loc>
+    <loc>http://localhost:1313/posts/start2023/</loc>
     <lastmod>2023-08-27T22:05:07+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-08-27T22:05:07+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/tags/2022/</loc>
+    <loc>http://localhost:1313/tags/2022/</loc>
     <lastmod>2023-06-14T10:00:35+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/tags/interclubs/</loc>
+    <loc>http://localhost:1313/tags/interclubs/</loc>
     <lastmod>2023-06-14T10:00:35+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/posts/interclubs2022/</loc>
+    <loc>http://localhost:1313/posts/interclubs2022/</loc>
     <lastmod>2023-06-14T10:00:35+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/tags/double/</loc>
+    <loc>http://localhost:1313/tags/double/</loc>
     <lastmod>2021-11-14T13:48:56+01:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/posts/mixed/</loc>
+    <loc>http://localhost:1313/posts/mixed/</loc>
     <lastmod>2021-11-14T13:48:56+01:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/tags/mixte/</loc>
+    <loc>http://localhost:1313/tags/mixte/</loc>
     <lastmod>2021-11-14T13:48:56+01:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/tags/2021/</loc>
+    <loc>http://localhost:1313/tags/2021/</loc>
     <lastmod>2021-10-26T19:36:05+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/posts/interclubs2021/</loc>
+    <loc>http://localhost:1313/posts/interclubs2021/</loc>
     <lastmod>2021-10-26T19:36:05+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/posts/start2021/</loc>
+    <loc>http://localhost:1313/posts/start2021/</loc>
     <lastmod>2021-09-05T10:18:17+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/tags/2020/</loc>
+    <loc>http://localhost:1313/tags/2020/</loc>
     <lastmod>2020-10-21T13:41:01+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/posts/curfew2020/</loc>
+    <loc>http://localhost:1313/posts/curfew2020/</loc>
     <lastmod>2020-10-21T13:41:01+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/tags/covid/</loc>
+    <loc>http://localhost:1313/tags/covid/</loc>
     <lastmod>2020-10-21T13:41:01+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/tags/ag/</loc>
+    <loc>http://localhost:1313/tags/ag/</loc>
     <lastmod>2020-09-25T14:07:58+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/posts/generalmeeting2020/</loc>
+    <loc>http://localhost:1313/posts/generalmeeting2020/</loc>
     <lastmod>2020-09-25T14:07:58+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/posts/interclubs2020/</loc>
+    <loc>http://localhost:1313/posts/interclubs2020/</loc>
     <lastmod>2020-09-25T13:46:13+02:00</lastmod>
   </url><url>
-    <loc>https://vairesbadminton.fr/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://vairesbadminton.fr/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://vairesbadminton.fr/sections/</loc>
+    <loc>http://localhost:1313/sections/</loc>
   </url>
 </urlset>
