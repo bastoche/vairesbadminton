@@ -23,6 +23,10 @@ Cotisation: 115€ pour accéder à tous les créneaux, entraînement inclus
 - <a href="https://echange.ffbad.org/index.php/s/gwxR3oAB8JMWQnc#pdfviewer" target="_blank">questionnaire de santé</a>
 - <a href="https://gdb.ffbad.org/2024-2025/Src/GDB-02/GUI02.01F01_PSO_CertificatDeNonContre-Indication_Form.pdf" target="_blank">certificat médical</a>
 
+# Options de paiemnent
+
+Vous pouvez nous faire parvenir le règlement de la cotisation de préférence par virement (<a href="/files/rib.pdf" target="_blank">notre RIB ici</a>), en chèque ou en espèces.
+
 # Pré-inscriptions
 
 En tant que membre du club, vous pouvez vous pré-inscrire, et ainsi être prioritaire, en déposant votre dossier à l'adresse suivante:
