@@ -7,7 +7,7 @@ Le club est constitué de deux sections: une section **jeunes** et une section *
 
 ## Jeunes
 
-La section jeunes, qui s'adresse aux 10-16 ans, est encadrée par [Jimmy](https://myffbad.fr/joueur/00201535) le samedi et [Baptiste](https://myffbad.fr/joueur/06518332) le jeudi.
+La section jeunes, qui s'adresse aux 8-16 ans, est encadrée par [Jimmy](https://myffbad.fr/joueur/00201535) le samedi et [Baptiste](https://myffbad.fr/joueur/06518332) le jeudi.
 
 En plus d'assurer leurs entraînements, ils organisent avant chaque période de vacances scolaires un tournoi interne suivi d'un goûter. Les jeunes ont la possibilité de participer à des tournois en Seine-et-Marne, pris en charge par le club, afin de s'initier à la compétition.
 
