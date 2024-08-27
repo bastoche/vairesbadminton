@@ -8,11 +8,15 @@ Les inscriptions pour la saison 2024-2025 auront lieu à la rentrée lors du for
 
 # Jeunes
 
+Cotisation: 115€ pour 1 créneau, 150€ pour 2 créneaux
+
 - <a href="/files/inscription_jeunes_2024.pdf" target="_blank">fiche d'inscription</a>
 - <a href="https://frontwebservice.ffbad.org/api/documents/visit/2336" target="_blank">formulaire de demande de licence</a>
 - <a href="https://echange.ffbad.org/index.php/s/fLDrPAzzi3pmNbw#pdfviewer" target="_blank">questionnaire de santé</a>
 
 # Adultes
+
+Cotisation: 115€ pour accéder à tous les créneaux, entraînement inclus
 
 - <a href="/files/inscription_adultes_2024.pdf" target="_blank">fiche d'inscription</a>
 - <a href="https://frontwebservice.ffbad.org/api/documents/visit/2335" target="_blank">formulaire de demande de licence</a>
