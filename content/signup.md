@@ -33,7 +33,7 @@ Vous pouvez nous faire parvenir le règlement de la cotisation de préférence p
 
 # Pré-inscriptions
 
-En tant que membre du club, vous pouvez vous pré-inscrire, et ainsi être prioritaire, en déposant votre dossier à l'adresse suivante:
+En tant que membre du club, vous pouvez vous pré-inscrire et ainsi être prioritaire jusqu'au 31 août 2024, en nous faisant parvenir votre dossier par email, ou en le déposant à l'adresse suivante:
 
 Vaires Badminton
 6 rue des Rossignols
