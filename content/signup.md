@@ -33,9 +33,14 @@ Vous pouvez régler :
 - par virement (<a href="/files/rib.pdf" target="_blank">notre RIB ici</a>)
 - en espèces
 - par chèque
-- en chèques vacances
+- en <a href="https://www.ancv.com/obtenir-le-cheque-vacances" target="_blank">chèques vacances</a>
+- en <a href="https://leguide.ancv.com/page/coupon-sport-pour-vos-envies-sportives" target="_blank">coupons sport</a>
 
-Vous êtes peut-être éligible au <a href="/files/rib.pdf" target="_blank">pass Sport</a> qui offre 50€ de réduction.
+Vous êtes peut-être éligible au <a href="https://www.pass.sports.gouv.fr/" target="_blank">pass Sport</a> qui offre 50€ de réduction.
+
+Si vous êtes vairois, renseignez-vous au CAL sur le passeport jeune Vairois qui vous offre 15.25€.
+
+Si vous avez entre 15 et 25 ans, vous pouvez obtenir 100€ via l'application <a href="https://www.iledefrance.fr/toutes-les-actualites/labaz-lappli-bons-plans-de-la-region-pour-les-15-25-ans" target="_blank">LABAZ</a>.
 
 # Pré-inscriptions
 
