@@ -11,6 +11,7 @@ Le bureau est actuellement composé de :
 - Bastien Duret, secrétaire
 - Romane Dupetit, secrétaire adjointe
 - Marie Chevalier, membre
+- Miguel Barbosa, membre
 - Kévin Bénito, membre
 - Frédéric Campos, membre
 - Grégory Morel, membre
