@@ -38,7 +38,7 @@ Vous pouvez régler :
 
 Vous êtes peut-être éligible au <a href="https://www.pass.sports.gouv.fr/" target="_blank">pass Sport</a> qui offre 50€ de réduction.
 
-Si vous êtes vairois, renseignez-vous au CAL sur le passeport jeune Vairois qui vous offre 15.25€.
+Si vous êtes vairois, renseignez-vous au CAL sur le passeport jeune Vairois qui vous donne droit à 15,25€.
 
 Si vous avez entre 15 et 25 ans, vous pouvez obtenir 100€ via l'application <a href="https://www.iledefrance.fr/toutes-les-actualites/labaz-lappli-bons-plans-de-la-region-pour-les-15-25-ans" target="_blank">LABAZ</a>.
 
