@@ -1,7 +1,7 @@
 ---
 title: "Inscription"
 menu: main
-weight: 3
+weight: 4
 ---
 
 Les inscriptions pour la saison 2024-2025 auront lieu à la rentrée lors du forum des associations, le dimanche 15 septembre. Pour vous inscrire en cours d'année, adressez-vous à un membre du bureau lors d'un créneau.

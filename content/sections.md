@@ -1,6 +1,7 @@
 ---
 title: "Sections"
-weight: 1
+menu: main
+weight: 2
 ---
 
 Le club est constitué de deux sections: une section **jeunes** et une section **adultes**.
@@ -13,7 +14,7 @@ En plus d'assurer leurs entraînements, ils organisent avant chaque période de 
 
 ## Adultes
 
-Nous accueillons des joueuses et des joueurs de tous niveaux, de 17 à 99 ans, sur tous les créneaux.
+Nous accueillons des joueuses et des joueurs de tous niveaux, de 16 à 99 ans, sur tous les créneaux.
 
 ### Jeu libre
 

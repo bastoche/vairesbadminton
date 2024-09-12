@@ -1,6 +1,5 @@
 ---
 title: "Bureau"
-weight: 4
 ---
 
 Le bureau est actuellement composé de :

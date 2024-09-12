@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sections on Vaires Badminton</title>
-    <link>https://vairesbadminton.fr/sections/</link>
+    <link>http://localhost:1313/sections/</link>
     <description>Recent content in Sections on Vaires Badminton</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <atom:link href="https://vairesbadminton.fr/sections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sections</title>
-      <link>https://vairesbadminton.fr/sections/sections/</link>
+      <link>http://localhost:1313/sections/sections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vairesbadminton.fr/sections/sections/</guid>
-      <description>Le club est constitué de deux sections: une section jeunes et une section adultes.&#xA;Jeunes La section jeunes, qui s&amp;rsquo;adresse aux 8-16 ans, est encadrée par Jimmy le samedi et Baptiste le jeudi.&#xA;En plus d&amp;rsquo;assurer leurs entraînements, ils organisent avant chaque période de vacances scolaires un tournoi interne suivi d&amp;rsquo;un goûter. Les jeunes ont la possibilité de participer à des tournois en Seine-et-Marne, pris en charge par le club, afin de s&amp;rsquo;initier à la compétition.</description>
+      <guid>http://localhost:1313/sections/sections/</guid>
+      <description>&lt;p&gt;Le club est constitué de deux sections: une section &lt;strong&gt;jeunes&lt;/strong&gt; et une section &lt;strong&gt;adultes&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;jeunes&#34;&gt;Jeunes&lt;/h2&gt;&#xA;&lt;p&gt;La section jeunes, qui s&amp;rsquo;adresse aux 8-16 ans, est encadrée par &lt;a href=&#34;https://myffbad.fr/joueur/00201535&#34;&gt;Jimmy&lt;/a&gt; le samedi et &lt;a href=&#34;https://myffbad.fr/joueur/06518332&#34;&gt;Baptiste&lt;/a&gt; le jeudi.&lt;/p&gt;&#xA;&lt;p&gt;En plus d&amp;rsquo;assurer leurs entraînements, ils organisent avant chaque période de vacances scolaires un tournoi interne suivi d&amp;rsquo;un goûter. Les jeunes ont la possibilité de participer à des tournois en Seine-et-Marne, pris en charge par le club, afin de s&amp;rsquo;initier à la compétition.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Créneaux</title>
-      <link>https://vairesbadminton.fr/sections/slots/</link>
+      <link>http://localhost:1313/sections/slots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vairesbadminton.fr/sections/slots/</guid>
-      <description>Lundi 19h - 20h30 créneau : jeu libre adultes lieu : nouvelle salle Mercredi 20h30 - 22h30 créneau : entraînement adultes lieu: nouvelle salle Jeudi 19h - 20h30 créneau : entraînement jeunes lieu: nouvelle salle 20h30 - 22h30 créneau : jeu libre adultes lieu: salle Olivier Girault Samedi 14h30 - 16h30 créneau : entraînement jeunes lieu: nouvelle salle 16h30 - 18h30 créneau : jeu libre adultes lieu: nouvelle salle </description>
+      <guid>http://localhost:1313/sections/slots/</guid>
+      <description>&lt;h2 id=&#34;lundi&#34;&gt;Lundi&lt;/h2&gt;&#xA;&lt;h3 id=&#34;19h---20h30&#34;&gt;19h - 20h30&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;créneau : jeu libre adultes&lt;/li&gt;&#xA;&lt;li&gt;lieu : nouvelle salle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;mercredi&#34;&gt;Mercredi&lt;/h2&gt;&#xA;&lt;h3 id=&#34;20h30---22h30&#34;&gt;20h30 - 22h30&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;créneau : entraînement adultes&lt;/li&gt;&#xA;&lt;li&gt;lieu: nouvelle salle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;jeudi&#34;&gt;Jeudi&lt;/h2&gt;&#xA;&lt;h3 id=&#34;19h---20h30-1&#34;&gt;19h - 20h30&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;créneau : entraînement jeunes&lt;/li&gt;&#xA;&lt;li&gt;lieu: nouvelle salle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;20h30---22h30-1&#34;&gt;20h30 - 22h30&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;créneau : jeu libre adultes&lt;/li&gt;&#xA;&lt;li&gt;lieu: salle Olivier Girault&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;samedi&#34;&gt;Samedi&lt;/h2&gt;&#xA;&lt;h3 id=&#34;14h30---16h30&#34;&gt;14h30 - 16h30&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;créneau : entraînement jeunes&lt;/li&gt;&#xA;&lt;li&gt;lieu: nouvelle salle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;16h30---18h30&#34;&gt;16h30 - 18h30&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;créneau : jeu libre adultes&lt;/li&gt;&#xA;&lt;li&gt;lieu: nouvelle salle&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Gymnase</title>
-      <link>https://vairesbadminton.fr/sections/gymnasium/</link>
+      <link>http://localhost:1313/sections/gymnasium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vairesbadminton.fr/sections/gymnasium/</guid>
-      <description>Les terrains sont situées au COSEC de Vaires-sur-Marne, 2 Rue de l&amp;rsquo;Écluse. La nouvelle salle possède 4 terrains, la salle Olivier Girault 7 terrains.</description>
+      <guid>http://localhost:1313/sections/gymnasium/</guid>
+      <description>&lt;p&gt;Les terrains sont situées au COSEC de Vaires-sur-Marne, &lt;a href=&#34;https://www.openstreetmap.org/#map=19/48.86978/2.64950&#34;&gt;2 Rue de l&amp;rsquo;Écluse&lt;/a&gt;. La nouvelle salle possède 4 terrains, la salle Olivier Girault 7 terrains.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bureau</title>
-      <link>https://vairesbadminton.fr/sections/board/</link>
+      <link>http://localhost:1313/sections/board/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vairesbadminton.fr/sections/board/</guid>
-      <description>Le bureau est actuellement composé de :&#xA;Quentin Dehayes, président Laurent Frérot, trésorier David Moïoli, trésorier adjoint Bastien Duret, secrétaire Romane Dupetit, secrétaire adjointe Marie Chevalier, membre Miguel Barbosa, membre Kévin Bénito, membre Frédéric Campos, membre Grégory Morel, membre N&amp;rsquo;hésitez pas à vous rapprocher d&amp;rsquo;eux pour toute question.</description>
+      <guid>http://localhost:1313/sections/board/</guid>
+      <description>&lt;p&gt;Le bureau est actuellement composé de :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quentin Dehayes, président&lt;/li&gt;&#xA;&lt;li&gt;Laurent Frérot, trésorier&lt;/li&gt;&#xA;&lt;li&gt;David Moïoli, trésorier adjoint&lt;/li&gt;&#xA;&lt;li&gt;Bastien Duret, secrétaire&lt;/li&gt;&#xA;&lt;li&gt;Romane Dupetit, secrétaire adjointe&lt;/li&gt;&#xA;&lt;li&gt;Marie Chevalier, membre&lt;/li&gt;&#xA;&lt;li&gt;Miguel Barbosa, membre&lt;/li&gt;&#xA;&lt;li&gt;Kévin Bénito, membre&lt;/li&gt;&#xA;&lt;li&gt;Frédéric Campos, membre&lt;/li&gt;&#xA;&lt;li&gt;Grégory Morel, membre&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;N&amp;rsquo;hésitez pas à vous rapprocher d&amp;rsquo;eux pour toute question.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

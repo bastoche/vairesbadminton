@@ -1,7 +1,10 @@
 ---
 title: "Créneaux"
-weight: 2
+menu: main
+weight: 3
 ---
+
+# Les créneaux
 
 ## Lundi
 ### 19h - 20h30
@@ -25,3 +28,7 @@ weight: 2
 ### 16h30 - 18h30
 - créneau : jeu libre adultes
 - lieu: nouvelle salle
+
+# Le gymnase
+
+Les terrains sont situées au COSEC de Vaires-sur-Marne, [2 Rue de l'Écluse](https://www.openstreetmap.org/#map=19/48.86978/2.64950). La nouvelle salle possède 4 terrains, la salle Olivier Girault 7 terrains.
