@@ -4,7 +4,7 @@ menu: main
 weight: 4
 ---
 
-Les inscriptions pour la saison 2024-2025 auront lieu à la rentrée lors du forum des associations, le dimanche 15 septembre. Pour vous inscrire en cours d'année, adressez-vous à un membre du bureau lors d'un créneau.
+Nous sommes complets pour la saison 2024-2025 ! Si vous envisagez de vous inscrire la saison prochaine, [contactez-nous](/contact) pour participer à une séance d'essai.
 
 Désormais, il n'est <a href="https://www.ffbad.org/actualites/actualites/2024/prise-de-licence-suppression-de-la-fourniture-obligatoire-du-certificat-medical" target="_blank">plus obligatoire</a> de fournir un certificat médical de non contre-indication à la pratique du badminton lors de la première prise de licence ou d'un renouvellement: répondre par la négative à toutes les questions du questionnaire de santé est suffisant.
 
