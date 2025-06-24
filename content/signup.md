@@ -4,28 +4,28 @@ menu: main
 weight: 4
 ---
 
-Nous sommes complets pour la saison 2024-2025 ! Si vous envisagez de vous inscrire la saison prochaine, [contactez-nous](/contact) en juin pour participer à une séance d'essai.
+<strong>Nous sommes complets pour la saison 2024-2025 ! Si vous envisagez de vous inscrire la saison prochaine, [contactez-nous](/contact) en juin pour participer à une séance d'essai.</strong>
 
 Désormais, il n'est <a href="https://www.ffbad.org/actualites/actualites/2024/prise-de-licence-suppression-de-la-fourniture-obligatoire-du-certificat-medical" target="_blank">plus obligatoire</a> de fournir un certificat médical de non contre-indication à la pratique du badminton lors de la première prise de licence ou d'un renouvellement: répondre par la négative à toutes les questions du questionnaire de santé est suffisant.
 
 
 # Jeunes
 
-Cotisation: 115€ pour 1 créneau, 150€ pour 2 créneaux
+Cotisation: 115€ pour 1 créneau, 150€ pour 2 créneaux.
 
-- <a href="/files/inscription_jeunes_2024.pdf" target="_blank">fiche d'inscription</a>
+<!-- - <a href="/files/inscription_jeunes_2024.pdf" target="_blank">fiche d'inscription</a>
 - <a href="https://frontwebservice.ffbad.org/api/documents/visit/2336" target="_blank">formulaire de demande de licence</a>
 - <a href="https://echange.ffbad.org/index.php/s/fLDrPAzzi3pmNbw#pdfviewer" target="_blank">questionnaire de santé</a>
-- optionnel: <a href="https://gdb.ffbad.org/2024-2025/Src/GDB-02/GUI02.01F01_PSO_CertificatDeNonContre-Indication_Form.pdf" target="_blank">certificat médical</a>
+- optionnel: <a href="https://gdb.ffbad.org/2024-2025/Src/GDB-02/GUI02.01F01_PSO_CertificatDeNonContre-Indication_Form.pdf" target="_blank">certificat médical</a> -->
 
 # Adultes
 
-Cotisation: 115€ pour accéder à tous les créneaux, entraînement inclus
+Cotisation: 115€ pour accéder à tous les créneaux, entraînement inclus.
 
-- <a href="/files/inscription_adultes_2024.pdf" target="_blank">fiche d'inscription</a>
+<!-- - <a href="/files/inscription_adultes_2024.pdf" target="_blank">fiche d'inscription</a>
 - <a href="https://frontwebservice.ffbad.org/api/documents/visit/2335" target="_blank">formulaire de demande de licence</a>
 - <a href="https://echange.ffbad.org/index.php/s/gwxR3oAB8JMWQnc#pdfviewer" target="_blank">questionnaire de santé</a>
-- optionnel: <a href="https://gdb.ffbad.org/2024-2025/Src/GDB-02/GUI02.01F01_PSO_CertificatDeNonContre-Indication_Form.pdf" target="_blank">certificat médical</a>
+- optionnel: <a href="https://gdb.ffbad.org/2024-2025/Src/GDB-02/GUI02.01F01_PSO_CertificatDeNonContre-Indication_Form.pdf" target="_blank">certificat médical</a> -->
 
 # Moyens de paiement
 
@@ -42,10 +42,10 @@ Si vous êtes vairois, renseignez-vous au CAL sur le passeport jeune Vairois qui
 
 Si vous avez entre 15 et 17 ans, vous pouvez obtenir 100€ via l'application <a href="https://www.iledefrance.fr/toutes-les-actualites/labaz-lappli-bons-plans-de-la-region-pour-les-15-25-ans" target="_blank">LABAZ</a>.
 
-# Pré-inscriptions
+<!-- # Pré-inscriptions
 
 En tant que membre du club, vous pouvez vous pré-inscrire et ainsi être prioritaire jusqu'au 31 août 2024, en nous faisant parvenir votre dossier par email, ou en le déposant à l'adresse suivante:
 
 Vaires Badminton
 6 rue des Rossignols
-77360 Vaires-sur-Marne
+77360 Vaires-sur-Marne -->

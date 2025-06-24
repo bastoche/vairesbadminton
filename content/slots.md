@@ -16,16 +16,19 @@ weight: 3
 - lieu: nouvelle salle
 ## Jeudi
 ### 19h - 20h30
-- créneau : entraînement jeunes
+- créneau : entraînement jeunes tous niveaux
 - lieu: nouvelle salle
 ### 20h30 - 22h30
 - créneau : jeu libre adultes
 - lieu: salle Olivier Girault
 ## Samedi
-### 14h30 - 16h30
-- créneau : entraînement jeunes
+### 14h00 - 15h30
+- créneau : entraînement jeunes "espoirs"
 - lieu: nouvelle salle
-### 16h30 - 18h30
+### 15h30 - 17h00
+- créneau : entraînement jeunes "élites"
+- lieu: nouvelle salle
+### 17h00 - 18h30
 - créneau : jeu libre adultes
 - lieu: nouvelle salle
 

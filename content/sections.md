@@ -8,7 +8,7 @@ Le club est constitué de deux sections: une section **jeunes** et une section *
 
 ## Jeunes
 
-La section jeunes, qui s'adresse aux 8-16 ans, est encadrée par [Jimmy](https://myffbad.fr/joueur/00201535) le samedi et [Abdelillah](https://myffbad.fr/joueur/07288788) le jeudi.
+La section jeunes, qui s'adresse aux 8-16 ans, est encadrée par [Jimmy](https://myffbad.fr/joueur/00201535) le samedi et [Abdel](https://myffbad.fr/joueur/07288788) le jeudi.
 
 En plus d'assurer leurs entraînements, ils organisent avant chaque période de vacances scolaires un tournoi interne suivi d'un goûter. Les jeunes ont la possibilité de participer à des tournois en Seine-et-Marne, pris en charge par le club, afin de s'initier à la compétition.
 
@@ -22,7 +22,7 @@ Pour le jeu libre, il n'est pas nécessaire de venir à plusieurs: vous pourrez 
 
 ### Entraînement
 
-L'entraînement du mercredi est le seul créneau qui requiert de l'assiduité. Il sera assuré cet année par [Abdelillah](https://myffbad.fr/joueur/07288788).
+L'entraînement du mercredi est le seul créneau qui requiert de l'assiduité. Il sera assuré cet année par [Abdel](https://myffbad.fr/joueur/07288788).
 
 ### Interclubs
 
