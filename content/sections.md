@@ -29,7 +29,7 @@ La section jeunes, qui s'adresse aux 8-16 ans, est encadrée par [Jimmy](https:/
 En plus d'assurer leurs entraînements, ils organisent avant chaque période de vacances scolaires un tournoi interne suivi d'un goûter. Les jeunes ont la possibilité de participer à des tournois en Seine-et-Marne, pris en charge par le club, afin de s'initier à la compétition.
 
 Voici quelques images de nos jeunes en action :
-<div style="display: flex; gap: 1rem;">
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
     <video width="480" height="848" controls>
     <source src="/videos/1.mp4" type="video/mp4">
     Your browser does not support the video tag.
