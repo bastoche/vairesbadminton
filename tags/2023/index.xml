@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2023 on Vaires Badminton</title>
-    <link>https://vairesbadminton.fr/tags/2023/</link>
+    <link>http://localhost:1313/tags/2023/</link>
     <description>Recent content in 2023 on Vaires Badminton</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 27 Aug 2023 22:05:07 +0200</lastBuildDate>
-    <atom:link href="https://vairesbadminton.fr/tags/2023/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rentrée 2023</title>
-      <link>https://vairesbadminton.fr/posts/start2023/</link>
+      <link>http://localhost:1313/posts/start2023/</link>
       <pubDate>Sun, 27 Aug 2023 22:05:07 +0200</pubDate>
-      <guid>https://vairesbadminton.fr/posts/start2023/</guid>
+      <guid>http://localhost:1313/posts/start2023/</guid>
       <description>&lt;p&gt;C&amp;rsquo;est sous le nom d&amp;rsquo;US Vaires Badminton que nous effectuerons notre rentrée pour la saison 2023-2024 !&lt;/p&gt;&#xA;&lt;p&gt;En voici les moments clés :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3 septembre, 10h, forum des associations&lt;/li&gt;&#xA;&lt;li&gt;6 septembre, 20h30, premier créneau adultes, jeu libre&lt;/li&gt;&#xA;&lt;li&gt;7 septembre, 19h, premier créneau jeunes avec Baptiste&lt;/li&gt;&#xA;&lt;li&gt;9 septembre, 14h, premier créneau jeunes avec Théo&lt;/li&gt;&#xA;&lt;li&gt;13 septembre, 20h30, premier entraînement avec Christophe&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Nous souhaitons d&amp;rsquo;ailleurs la bienvenue à Théo, qui sera le nouveau coach des jeunes le samedi, vous pouvez le découvrir sur &lt;a href=&#34;https://www.youtube.com/@badmintondeplage&#34;&gt;youtube&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

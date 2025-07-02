@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accueil on Vaires Badminton</title>
-    <link>https://vairesbadminton.fr/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Accueil on Vaires Badminton</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 24 Jun 2025 10:51:56 +0200</lastBuildDate>
-    <atom:link href="https://vairesbadminton.fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sections</title>
-      <link>https://vairesbadminton.fr/sections/</link>
+      <link>http://localhost:1313/sections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vairesbadminton.fr/sections/</guid>
-      <description>&lt;p&gt;Le club est constitué de deux sections: une section &lt;strong&gt;jeunes&lt;/strong&gt; et une section &lt;strong&gt;adultes&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;jeunes&#34;&gt;Jeunes&lt;/h2&gt;&#xA;&lt;p&gt;La section jeunes, qui s&amp;rsquo;adresse aux 8-16 ans, est encadrée par &lt;a href=&#34;https://myffbad.fr/joueur/00201535&#34;&gt;Jimmy&lt;/a&gt; le samedi et &lt;a href=&#34;https://myffbad.fr/joueur/07288788&#34;&gt;Abdel&lt;/a&gt; le jeudi.&lt;/p&gt;&#xA;&lt;p&gt;En plus d&amp;rsquo;assurer leurs entraînements, ils organisent avant chaque période de vacances scolaires un tournoi interne suivi d&amp;rsquo;un goûter. Les jeunes ont la possibilité de participer à des tournois en Seine-et-Marne, pris en charge par le club, afin de s&amp;rsquo;initier à la compétition.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/sections/</guid>
+      <description>&lt;p&gt;Le club est constitué de deux sections: une section &lt;strong&gt;adultes&lt;/strong&gt; et une section &lt;strong&gt;jeunes&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;adultes&#34;&gt;Adultes&lt;/h2&gt;&#xA;&lt;p&gt;Nous accueillons des joueuses et des joueurs de tous niveaux, de 16 à 99 ans, sur tous les créneaux.&lt;/p&gt;&#xA;&lt;h3 id=&#34;jeu-libre&#34;&gt;Jeu libre&lt;/h3&gt;&#xA;&lt;p&gt;Pour le jeu libre, il n&amp;rsquo;est pas nécessaire de venir à plusieurs: vous pourrez trouver des partenaires et des adversaires sur place. Si les terrains sont pleins, une rotation sera mise en place pour maximiser le temps de jeu de chacun. Des volants en plastique sont mis à disposition par le club, et nous prêtons des raquettes pour ceux qui n&amp;rsquo;en ont pas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Créneaux</title>
-      <link>https://vairesbadminton.fr/slots/</link>
+      <link>http://localhost:1313/slots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vairesbadminton.fr/slots/</guid>
+      <guid>http://localhost:1313/slots/</guid>
       <description>&lt;h1 id=&#34;les-créneaux&#34;&gt;Les créneaux&lt;/h1&gt;&#xA;&lt;h2 id=&#34;lundi&#34;&gt;Lundi&lt;/h2&gt;&#xA;&lt;h3 id=&#34;19h---20h30&#34;&gt;19h - 20h30&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;créneau : jeu libre adultes&lt;/li&gt;&#xA;&lt;li&gt;lieu : nouvelle salle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;mercredi&#34;&gt;Mercredi&lt;/h2&gt;&#xA;&lt;h3 id=&#34;20h30---22h30&#34;&gt;20h30 - 22h30&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;créneau : entraînement adultes&lt;/li&gt;&#xA;&lt;li&gt;lieu: nouvelle salle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;jeudi&#34;&gt;Jeudi&lt;/h2&gt;&#xA;&lt;h3 id=&#34;19h---20h30-1&#34;&gt;19h - 20h30&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;créneau : entraînement jeunes tous niveaux&lt;/li&gt;&#xA;&lt;li&gt;lieu: nouvelle salle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;20h30---22h30-1&#34;&gt;20h30 - 22h30&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;créneau : jeu libre adultes&lt;/li&gt;&#xA;&lt;li&gt;lieu: salle Olivier Girault&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;samedi&#34;&gt;Samedi&lt;/h2&gt;&#xA;&lt;h3 id=&#34;14h00---15h30&#34;&gt;14h00 - 15h30&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;créneau : entraînement jeunes &amp;ldquo;espoirs&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;lieu: nouvelle salle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;15h30---17h00&#34;&gt;15h30 - 17h00&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;créneau : entraînement jeunes &amp;ldquo;élites&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;lieu: nouvelle salle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;17h00---18h30&#34;&gt;17h00 - 18h30&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;créneau : jeu libre adultes&lt;/li&gt;&#xA;&lt;li&gt;lieu: nouvelle salle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;le-gymnase&#34;&gt;Le gymnase&lt;/h1&gt;&#xA;&lt;p&gt;Les terrains sont situées au COSEC de Vaires-sur-Marne, &lt;a href=&#34;https://www.openstreetmap.org/#map=19/48.86978/2.64950&#34;&gt;2 Rue de l&amp;rsquo;Écluse&lt;/a&gt;. La nouvelle salle possède 4 terrains, la salle Olivier Girault 7 terrains.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inscription</title>
-      <link>https://vairesbadminton.fr/signup/</link>
+      <link>http://localhost:1313/signup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vairesbadminton.fr/signup/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Nous sommes complets pour la saison 2024-2025 ! Si vous envisagez de vous inscrire la saison prochaine, &lt;a href=&#34;https://vairesbadminton.fr/contact&#34;&gt;contactez-nous&lt;/a&gt; en juin pour participer à une séance d&amp;rsquo;essai.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Désormais, il n&amp;rsquo;est &lt;a href=&#34;https://www.ffbad.org/actualites/actualites/2024/prise-de-licence-suppression-de-la-fourniture-obligatoire-du-certificat-medical&#34; target=&#34;_blank&#34;&gt;plus obligatoire&lt;/a&gt; de fournir un certificat médical de non contre-indication à la pratique du badminton lors de la première prise de licence ou d&amp;rsquo;un renouvellement: répondre par la négative à toutes les questions du questionnaire de santé est suffisant.&lt;/p&gt;&#xA;&lt;h1 id=&#34;jeunes&#34;&gt;Jeunes&lt;/h1&gt;&#xA;&lt;p&gt;Cotisation: 115€ pour 1 créneau, 150€ pour 2 créneaux.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/signup/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Nous sommes complets pour la saison 2024-2025 ! Si vous envisagez de vous inscrire la saison prochaine, &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;contactez-nous&lt;/a&gt; en juin pour participer à une séance d&amp;rsquo;essai.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Désormais, il n&amp;rsquo;est &lt;a href=&#34;https://www.ffbad.org/actualites/actualites/2024/prise-de-licence-suppression-de-la-fourniture-obligatoire-du-certificat-medical&#34; target=&#34;_blank&#34;&gt;plus obligatoire&lt;/a&gt; de fournir un certificat médical de non contre-indication à la pratique du badminton lors de la première prise de licence ou d&amp;rsquo;un renouvellement: répondre par la négative à toutes les questions du questionnaire de santé est suffisant.&lt;/p&gt;&#xA;&lt;h1 id=&#34;jeunes&#34;&gt;Jeunes&lt;/h1&gt;&#xA;&lt;p&gt;Cotisation: 115€ pour 1 créneau, 150€ pour 2 créneaux.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fin de saison 2025</title>
-      <link>https://vairesbadminton.fr/posts/end2025/</link>
+      <link>http://localhost:1313/posts/end2025/</link>
       <pubDate>Tue, 24 Jun 2025 10:51:56 +0200</pubDate>
-      <guid>https://vairesbadminton.fr/posts/end2025/</guid>
+      <guid>http://localhost:1313/posts/end2025/</guid>
       <description>&lt;p&gt;Clap de fin pour cette saison 2024-2025, la dernière séance aura lieu le 5 juillet. Reprise dès le 18 août, à condition d&amp;rsquo;avoir finalisé votre pré-inscription pour la saison 2025-2026, les dossiers seront disponibles le 1er août.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rentrée 2024</title>
-      <link>https://vairesbadminton.fr/posts/start2024/</link>
+      <link>http://localhost:1313/posts/start2024/</link>
       <pubDate>Tue, 27 Aug 2024 09:25:11 +0200</pubDate>
-      <guid>https://vairesbadminton.fr/posts/start2024/</guid>
+      <guid>http://localhost:1313/posts/start2024/</guid>
       <description>&lt;p&gt;C&amp;rsquo;est parti pour une nouvelle saison, première de l&amp;rsquo;ère apr. F.L.&lt;/p&gt;&#xA;&lt;p&gt;Voici les moments clés de cette rentrée :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;9 septembre 19h, reprise du jeu libre pour les adultes&lt;/li&gt;&#xA;&lt;li&gt;15 septembre, forum des associations&lt;/li&gt;&#xA;&lt;li&gt;18 septembre 20h30, premier entraînement avec Abdelillah&lt;/li&gt;&#xA;&lt;li&gt;19 septembre 19h, premier créneau jeunes avec Baptiste&lt;/li&gt;&#xA;&lt;li&gt;21 septembre 14h30, premier créneau jeunes avec Jimmy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Nous souhaitons d&amp;rsquo;ailleurs la bienvenue à Jimmy, nouveau coach des jeunes le samedi, et Abdelillah, nouveau coach des adultes le mercredi !&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rentrée 2023</title>
-      <link>https://vairesbadminton.fr/posts/start2023/</link>
+      <link>http://localhost:1313/posts/start2023/</link>
       <pubDate>Sun, 27 Aug 2023 22:05:07 +0200</pubDate>
-      <guid>https://vairesbadminton.fr/posts/start2023/</guid>
+      <guid>http://localhost:1313/posts/start2023/</guid>
       <description>&lt;p&gt;C&amp;rsquo;est sous le nom d&amp;rsquo;US Vaires Badminton que nous effectuerons notre rentrée pour la saison 2023-2024 !&lt;/p&gt;&#xA;&lt;p&gt;En voici les moments clés :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3 septembre, 10h, forum des associations&lt;/li&gt;&#xA;&lt;li&gt;6 septembre, 20h30, premier créneau adultes, jeu libre&lt;/li&gt;&#xA;&lt;li&gt;7 septembre, 19h, premier créneau jeunes avec Baptiste&lt;/li&gt;&#xA;&lt;li&gt;9 septembre, 14h, premier créneau jeunes avec Théo&lt;/li&gt;&#xA;&lt;li&gt;13 septembre, 20h30, premier entraînement avec Christophe&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Nous souhaitons d&amp;rsquo;ailleurs la bienvenue à Théo, qui sera le nouveau coach des jeunes le samedi, vous pouvez le découvrir sur &lt;a href=&#34;https://www.youtube.com/@badmintondeplage&#34;&gt;youtube&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interclubs 2022-2023</title>
-      <link>https://vairesbadminton.fr/posts/interclubs2022/</link>
+      <link>http://localhost:1313/posts/interclubs2022/</link>
       <pubDate>Wed, 14 Jun 2023 10:00:35 +0200</pubDate>
-      <guid>https://vairesbadminton.fr/posts/interclubs2022/</guid>
-      <description>&lt;p&gt;Cette année nous avons à nouveau engagé trois équipes d&amp;rsquo;interclubs, avec cette fois deux &lt;a href=&#34;http://cobad77.fr/cb77/content/interclubs-mixtes&#34;&gt;équipes mixtes&lt;/a&gt; et une &lt;a href=&#34;http://cobad77.fr/cb77/content/interclubs-masculins&#34;&gt;équipe masculine&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;équipe-1&#34;&gt;Équipe 1&lt;/h1&gt;&#xA;&lt;p&gt;Pour la seconde année consécutive, l&amp;rsquo;équipe 1 finit première de &lt;a href=&#34;https://icbad.ffbad.org/competition/2202259&#34;&gt;sa poule&lt;/a&gt; et monte dans la division supérieure. Elle jouera donc en D2 l&amp;rsquo;an prochain !&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://vairesbadminton.fr/images/2022_team1.png&#34; alt=&#34;Team 1&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;équipe-2&#34;&gt;Équipe 2&lt;/h1&gt;&#xA;&lt;p&gt;Débuts plus difficiles pour l&amp;rsquo;équipe 2, qui réussit quand même à marquer 3 points de bonus défensif.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://vairesbadminton.fr/images/2022_team2.png&#34; alt=&#34;Team 2&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;équipe-3&#34;&gt;Équipe 3&lt;/h1&gt;&#xA;&lt;p&gt;L&amp;rsquo;équipe 3 finit à la troisième place de sa poule, avec 3 victoires.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/interclubs2022/</guid>
+      <description>&lt;p&gt;Cette année nous avons à nouveau engagé trois équipes d&amp;rsquo;interclubs, avec cette fois deux &lt;a href=&#34;http://cobad77.fr/cb77/content/interclubs-mixtes&#34;&gt;équipes mixtes&lt;/a&gt; et une &lt;a href=&#34;http://cobad77.fr/cb77/content/interclubs-masculins&#34;&gt;équipe masculine&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;équipe-1&#34;&gt;Équipe 1&lt;/h1&gt;&#xA;&lt;p&gt;Pour la seconde année consécutive, l&amp;rsquo;équipe 1 finit première de &lt;a href=&#34;https://icbad.ffbad.org/competition/2202259&#34;&gt;sa poule&lt;/a&gt; et monte dans la division supérieure. Elle jouera donc en D2 l&amp;rsquo;an prochain !&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/2022_team1.png&#34; alt=&#34;Team 1&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;équipe-2&#34;&gt;Équipe 2&lt;/h1&gt;&#xA;&lt;p&gt;Débuts plus difficiles pour l&amp;rsquo;équipe 2, qui réussit quand même à marquer 3 points de bonus défensif.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/2022_team2.png&#34; alt=&#34;Team 2&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;équipe-3&#34;&gt;Équipe 3&lt;/h1&gt;&#xA;&lt;p&gt;L&amp;rsquo;équipe 3 finit à la troisième place de sa poule, avec 3 victoires.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Le double mixte</title>
-      <link>https://vairesbadminton.fr/posts/mixed/</link>
+      <link>http://localhost:1313/posts/mixed/</link>
       <pubDate>Sun, 14 Nov 2021 13:48:56 +0100</pubDate>
-      <guid>https://vairesbadminton.fr/posts/mixed/</guid>
+      <guid>http://localhost:1313/posts/mixed/</guid>
       <description>&lt;p&gt;Pour la première fois cette année, nous engageons une équipe mixte en interclubs. C&amp;rsquo;est l&amp;rsquo;occasion pour nous d&amp;rsquo;approfondir certaines pratiques, comme le double mixte.&lt;/p&gt;&#xA;&lt;h1 id=&#34;un-peu-dhistoire&#34;&gt;Un peu d&amp;rsquo;histoire&lt;/h1&gt;&#xA;&lt;p&gt;Selon &lt;a href=&#34;https://en.wikipedia.org/wiki/Mixed_doubles#Badminton&#34;&gt;wikipedia&lt;/a&gt;, la première compétition majeure à inclure le double mixte fut le &lt;a href=&#34;https://en.wikipedia.org/wiki/1899_All_England_Badminton_Championships&#34;&gt;All England de 1899&lt;/a&gt;. Il a fallu attendre 1977 pour voir un tournoi de double mixte aux &lt;a href=&#34;https://en.wikipedia.org/wiki/1977_IBF_World_Championships&#34;&gt;championnats du monde&lt;/a&gt; à Malmö en Suède, remporté par les danois &lt;a href=&#34;https://en.wikipedia.org/wiki/Lene_K%C3%B8ppen&#34;&gt;Lene Køppen&lt;/a&gt; et &lt;a href=&#34;https://en.wikipedia.org/wiki/Steen_Skovgaard&#34;&gt;Steen Skovgaard&lt;/a&gt;. Les premiers médaillés olympiques de double mixte furent les coréens &lt;a href=&#34;https://en.wikipedia.org/wiki/Gil_Young-ah&#34;&gt;Gil Young-ah&lt;/a&gt; et &lt;a href=&#34;https://en.wikipedia.org/wiki/Kim_Dong-moon&#34;&gt;Kim Dong-moon&lt;/a&gt; en 1996 à Atlanta aux États-Unis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interclubs 2021-2022</title>
-      <link>https://vairesbadminton.fr/posts/interclubs2021/</link>
+      <link>http://localhost:1313/posts/interclubs2021/</link>
       <pubDate>Tue, 26 Oct 2021 19:36:05 +0200</pubDate>
-      <guid>https://vairesbadminton.fr/posts/interclubs2021/</guid>
-      <description>&lt;p&gt;Les interclubs n&amp;rsquo;ont malheureusement pas eu lieu &lt;a href=&#34;https://vairesbadminton.fr/posts/interclubs2020&#34;&gt;l&amp;rsquo;année dernière&lt;/a&gt;, espérons que cette année tout se passe bien ! Nous allons à nouveau engager 3 équipes :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;une &lt;a href=&#34;http://cobad77.fr/cb77/content/interclubs-mixtes&#34;&gt;équipe mixte&lt;/a&gt;, avec pour capitaine Bastien&lt;/li&gt;&#xA;&lt;li&gt;deux &lt;a href=&#34;http://cobad77.fr/cb77/content/interclubs-masculins&#34;&gt;équipes masculines&lt;/a&gt;, avec pour capitaines Frédéric et Miguel&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Pour ceux qui ne sont pas familiers du système et qui n&amp;rsquo;ont pas envie de lire &lt;a href=&#34;http://cobad77.fr/cb77/sites/default/files/fichiers/documents/saison21-22/CDI/cobad77-cdi_reglementic2021-2022.pdf&#34;&gt;le règlement&lt;/a&gt; en entier, voici un petit résumé du déroulement d&amp;rsquo;une journée d&amp;rsquo;interclubs.&lt;/p&gt;&#xA;&lt;h1 id=&#34;avant-la-rencontre&#34;&gt;Avant la rencontre&lt;/h1&gt;&#xA;&lt;p&gt;Le capitaine constitue son équipe à partir des joueurs disponibles, en essayant de maximiser les chances de victoire et de donner l&amp;rsquo;opportunité de jouer à tout le monde.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/interclubs2021/</guid>
+      <description>&lt;p&gt;Les interclubs n&amp;rsquo;ont malheureusement pas eu lieu &lt;a href=&#34;http://localhost:1313/posts/interclubs2020&#34;&gt;l&amp;rsquo;année dernière&lt;/a&gt;, espérons que cette année tout se passe bien ! Nous allons à nouveau engager 3 équipes :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;une &lt;a href=&#34;http://cobad77.fr/cb77/content/interclubs-mixtes&#34;&gt;équipe mixte&lt;/a&gt;, avec pour capitaine Bastien&lt;/li&gt;&#xA;&lt;li&gt;deux &lt;a href=&#34;http://cobad77.fr/cb77/content/interclubs-masculins&#34;&gt;équipes masculines&lt;/a&gt;, avec pour capitaines Frédéric et Miguel&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Pour ceux qui ne sont pas familiers du système et qui n&amp;rsquo;ont pas envie de lire &lt;a href=&#34;http://cobad77.fr/cb77/sites/default/files/fichiers/documents/saison21-22/CDI/cobad77-cdi_reglementic2021-2022.pdf&#34;&gt;le règlement&lt;/a&gt; en entier, voici un petit résumé du déroulement d&amp;rsquo;une journée d&amp;rsquo;interclubs.&lt;/p&gt;&#xA;&lt;h1 id=&#34;avant-la-rencontre&#34;&gt;Avant la rencontre&lt;/h1&gt;&#xA;&lt;p&gt;Le capitaine constitue son équipe à partir des joueurs disponibles, en essayant de maximiser les chances de victoire et de donner l&amp;rsquo;opportunité de jouer à tout le monde.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rentrée 2021</title>
-      <link>https://vairesbadminton.fr/posts/start2021/</link>
+      <link>http://localhost:1313/posts/start2021/</link>
       <pubDate>Sun, 05 Sep 2021 10:18:17 +0200</pubDate>
-      <guid>https://vairesbadminton.fr/posts/start2021/</guid>
+      <guid>http://localhost:1313/posts/start2021/</guid>
       <description>&lt;p&gt;Après une saison compliquée en 2020-2021, il est grand temps de reprendre ! Dès le lundi 6 septembre pour les adultes et le jeudi 9 septembre pour les jeunes. Le premier entraînement adultes avec Christophe aura lieu mercredi 15 septembre.&lt;/p&gt;&#xA;&lt;p&gt;Cette saison 2021-2022 possède son lot de nouveautés !&lt;/p&gt;&#xA;&lt;p&gt;D&amp;rsquo;abord un créneau adultes le jeudi de 20h30 à 22h30 dans la salle Olivier Girault, avec 7 terrains de jeu. Nous étions souvent à l&amp;rsquo;étroit sur 4 terrains, cela nous permettra de jouer plus facilement en simple et d&amp;rsquo;organiser un tournoi en février.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Couvre-feu 2020</title>
-      <link>https://vairesbadminton.fr/posts/curfew2020/</link>
+      <link>http://localhost:1313/posts/curfew2020/</link>
       <pubDate>Wed, 21 Oct 2020 13:41:01 +0200</pubDate>
-      <guid>https://vairesbadminton.fr/posts/curfew2020/</guid>
+      <guid>http://localhost:1313/posts/curfew2020/</guid>
       <description>&lt;p&gt;L’évolution de la situation sanitaire induit un renforcement des mesures en matière d’accueil du public au sein des équipements publics sportifs et culturels.&lt;/p&gt;&#xA;&lt;p&gt;Les mineurs dont la pratique sportive ou culturelle est encadrée peuvent poursuivre leurs activités. Ces activités sont soumises aux règles du couvre-feu, elles doivent ainsi se conformer aux horaires autorisés et se dérouler selon un protocole sanitaire d’accueil strict.&lt;/p&gt;&#xA;&lt;p&gt;Les activités avec un public adulte sont désormais interdites en intérieur mais restent autorisées en plein air.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Assemblée générale 2020</title>
-      <link>https://vairesbadminton.fr/posts/generalmeeting2020/</link>
+      <link>http://localhost:1313/posts/generalmeeting2020/</link>
       <pubDate>Fri, 25 Sep 2020 14:07:58 +0200</pubDate>
-      <guid>https://vairesbadminton.fr/posts/generalmeeting2020/</guid>
+      <guid>http://localhost:1313/posts/generalmeeting2020/</guid>
       <description>&lt;p&gt;Notre AG annuelle n&amp;rsquo;ayant pas pu se tenir l&amp;rsquo;an dernier, nous l&amp;rsquo;avons programmée samedi 3 octobre à 11h, au COSEC (salle de réunion au niveau des escaliers près de la salle de gym). Un pot et un petit buffet clôtureront cette AG vers 12h15, dehors si le temps nous le permet, ou au niveau de la buvette du handball.&lt;/p&gt;&#xA;&lt;p&gt;Chaque adhérent a la possibilité d&amp;rsquo;y participer, voire de se présenter pour occuper les fonctions essentielles à notre bon fonctionnement.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interclubs 2020-2021</title>
-      <link>https://vairesbadminton.fr/posts/interclubs2020/</link>
+      <link>http://localhost:1313/posts/interclubs2020/</link>
       <pubDate>Fri, 25 Sep 2020 13:46:13 +0200</pubDate>
-      <guid>https://vairesbadminton.fr/posts/interclubs2020/</guid>
+      <guid>http://localhost:1313/posts/interclubs2020/</guid>
       <description>&lt;p&gt;Chaque année, l&amp;rsquo;USVECBAD inscrit plusieurs équipes aux Championnats Interclubs Départementaux. Cette compétition fait s&amp;rsquo;affronter entre novembre et avril les différents clubs de badminton du département. Les rencontres ont lieu une fois par semaine, entre 20h30 et 22h30. C&amp;rsquo;est l&amp;rsquo;occasion de pratiquer le badminton de manière compétitive et conviviale, chaque rencontre étant traditionnellement suivie d&amp;rsquo;un pot. Les rencontres à domicile ont lieu le vendredi.&lt;/p&gt;&#xA;&lt;p&gt;Il y a deux championnats: un championnat Mixte et un championnat Masculin. Ils sont tous les deux ouverts aux débutants.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bureau</title>
-      <link>https://vairesbadminton.fr/sections/board/</link>
+      <link>http://localhost:1313/sections/board/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vairesbadminton.fr/sections/board/</guid>
+      <guid>http://localhost:1313/sections/board/</guid>
       <description>&lt;p&gt;Le bureau est actuellement composé de :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quentin Dehayes, président&lt;/li&gt;&#xA;&lt;li&gt;Laurent Frérot, trésorier&lt;/li&gt;&#xA;&lt;li&gt;David Moïoli, trésorier adjoint&lt;/li&gt;&#xA;&lt;li&gt;Bastien Duret, secrétaire&lt;/li&gt;&#xA;&lt;li&gt;Romane Dupetit, secrétaire adjointe&lt;/li&gt;&#xA;&lt;li&gt;Marie Chevalier, membre&lt;/li&gt;&#xA;&lt;li&gt;Miguel Barbosa, membre&lt;/li&gt;&#xA;&lt;li&gt;Kévin Bénito, membre&lt;/li&gt;&#xA;&lt;li&gt;Frédéric Campos, membre&lt;/li&gt;&#xA;&lt;li&gt;Grégory Morel, membre&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;N&amp;rsquo;hésitez pas à vous rapprocher d&amp;rsquo;eux pour toute question.&lt;/p&gt;</description>
     </item>
   </channel>
