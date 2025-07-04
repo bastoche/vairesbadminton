@@ -4,7 +4,21 @@ menu: main
 weight: 4
 ---
 
-<strong>Nous sommes complets pour la saison 2024-2025 ! Si vous envisagez de vous inscrire la saison prochaine, [contactez-nous](/contact) en juin pour participer à une séance d'essai.</strong>
+Les dossiers d'inscriptions seront disponibles au courant du mois d'août.
+
+# Pré-inscription
+
+En tant que membre du club, vous pouvez vous pré-inscrire et ainsi être prioritaire jusqu'au 31 août 2024, en nous faisant parvenir votre dossier par email, ou en le déposant à l'adresse suivante:
+
+Vaires Badminton
+6 rue des Rossignols
+77360 Vaires-sur-Marne
+
+# Forum des associations
+
+Nous serons présent au forum des associations qui se tiendra au COSEC de Vaires le 7 septembre de 10h à 17h.
+
+# Le certificat médical n'est plus obligatoire
 
 Désormais, il n'est <a href="https://www.ffbad.org/actualites/actualites/2024/prise-de-licence-suppression-de-la-fourniture-obligatoire-du-certificat-medical" target="_blank">plus obligatoire</a> de fournir un certificat médical de non contre-indication à la pratique du badminton lors de la première prise de licence ou d'un renouvellement: répondre par la négative à toutes les questions du questionnaire de santé est suffisant.
 
@@ -36,16 +50,8 @@ Vous pouvez régler :
 - en <a href="https://www.ancv.com/obtenir-le-cheque-vacances" target="_blank">chèques vacances</a>
 - en <a href="https://leguide.ancv.com/page/coupon-sport-pour-vos-envies-sportives" target="_blank">coupons sport</a>
 
-Vous êtes peut-être éligible au <a href="https://www.pass.sports.gouv.fr/" target="_blank">pass Sport</a> qui offre 50€ de réduction.
+Vous êtes peut-être éligible au <a href="https://www.pass.sports.gouv.fr/" target="_blank">pass Sport</a> qui offre 70€ de réduction.
 
 Si vous êtes vairois, renseignez-vous au CAL sur le passeport jeune Vairois qui vous donne droit à 15,25€.
 
 Si vous avez entre 15 et 17 ans, vous pouvez obtenir 100€ via l'application <a href="https://www.iledefrance.fr/toutes-les-actualites/labaz-lappli-bons-plans-de-la-region-pour-les-15-25-ans" target="_blank">LABAZ</a>.
-
-<!-- # Pré-inscriptions
-
-En tant que membre du club, vous pouvez vous pré-inscrire et ainsi être prioritaire jusqu'au 31 août 2024, en nous faisant parvenir votre dossier par email, ou en le déposant à l'adresse suivante:
-
-Vaires Badminton
-6 rue des Rossignols
-77360 Vaires-sur-Marne -->
