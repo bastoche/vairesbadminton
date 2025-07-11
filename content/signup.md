@@ -10,7 +10,7 @@ Nous serons présent au forum des associations qui se tiendra au COSEC de Vaires
 
 # Pré-inscriptions
 
-En tant que membre du club, vous pouvez vous pré-inscrire et ainsi être prioritaire jusqu'au 31 août 2024, en nous faisant parvenir votre dossier par email, ou en le déposant à l'adresse suivante:
+En tant que membre du club, vous pouvez vous pré-inscrire et ainsi être prioritaire jusqu'au 31 août 2025, en nous faisant parvenir votre dossier par email, ou en le déposant à l'adresse suivante:
 
 Vaires Badminton
 6 rue des Rossignols
