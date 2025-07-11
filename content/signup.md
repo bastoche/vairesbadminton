@@ -4,19 +4,17 @@ menu: main
 weight: 4
 ---
 
-Les dossiers d'inscriptions seront disponibles au courant du mois d'août.
+# Inscriptions
 
-# Pré-inscription
+Nous serons présent au forum des associations qui se tiendra au COSEC de Vaires le 7 septembre de 10h à 17h.
+
+# Pré-inscriptions
 
 En tant que membre du club, vous pouvez vous pré-inscrire et ainsi être prioritaire jusqu'au 31 août 2024, en nous faisant parvenir votre dossier par email, ou en le déposant à l'adresse suivante:
 
 Vaires Badminton
 6 rue des Rossignols
 77360 Vaires-sur-Marne
-
-# Forum des associations
-
-Nous serons présent au forum des associations qui se tiendra au COSEC de Vaires le 7 septembre de 10h à 17h.
 
 # Le certificat médical n'est plus obligatoire
 
@@ -27,19 +25,19 @@ Désormais, il n'est <a href="https://www.ffbad.org/actualites/actualites/2024/p
 
 Cotisation: 115€ pour 1 créneau, 150€ pour 2 créneaux.
 
-<!-- - <a href="/files/inscription_jeunes_2024.pdf" target="_blank">fiche d'inscription</a>
-- <a href="https://frontwebservice.ffbad.org/api/documents/visit/2336" target="_blank">formulaire de demande de licence</a>
+- <a href="/files/inscription_jeunes_2025.pdf" target="_blank">fiche d'inscription</a>
+- <a href="https://frontwebservice.ffbad.org/api/documents/visit/2984" target="_blank">formulaire de demande de licence</a>
 - <a href="https://echange.ffbad.org/index.php/s/fLDrPAzzi3pmNbw#pdfviewer" target="_blank">questionnaire de santé</a>
-- optionnel: <a href="https://gdb.ffbad.org/2024-2025/Src/GDB-02/GUI02.01F01_PSO_CertificatDeNonContre-Indication_Form.pdf" target="_blank">certificat médical</a> -->
+- optionnel: <a href="https://frontwebservice.ffbad.org/api/documents/visit/2969" target="_blank">certificat médical</a>
 
 # Adultes
 
 Cotisation: 115€ pour accéder à tous les créneaux, entraînement inclus.
 
-<!-- - <a href="/files/inscription_adultes_2024.pdf" target="_blank">fiche d'inscription</a>
-- <a href="https://frontwebservice.ffbad.org/api/documents/visit/2335" target="_blank">formulaire de demande de licence</a>
+- <a href="/files/inscription_adultes_2025.pdf" target="_blank">fiche d'inscription</a>
+- <a href="https://frontwebservice.ffbad.org/api/documents/visit/2985" target="_blank">formulaire de demande de licence</a>
 - <a href="https://echange.ffbad.org/index.php/s/gwxR3oAB8JMWQnc#pdfviewer" target="_blank">questionnaire de santé</a>
-- optionnel: <a href="https://gdb.ffbad.org/2024-2025/Src/GDB-02/GUI02.01F01_PSO_CertificatDeNonContre-Indication_Form.pdf" target="_blank">certificat médical</a> -->
+- optionnel: <a href="https://frontwebservice.ffbad.org/api/documents/visit/2969" target="_blank">certificat médical</a>
 
 # Moyens de paiement
 
