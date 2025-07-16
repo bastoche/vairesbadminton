@@ -6,7 +6,7 @@ weight: 4
 
 # Inscriptions
 
-Nous serons présent au forum des associations qui se tiendra au COSEC de Vaires le 7 septembre de 10h à 17h.
+Pour vous inscrire, venez à notre rencontre au forum des associations qui se tiendra au COSEC de Vaires le 7 septembre de 10h à 17h.
 
 # Pré-inscriptions
 
