@@ -6,15 +6,7 @@ weight: 4
 
 # Inscriptions
 
-Pour vous inscrire, venez à notre rencontre au forum des associations qui se tiendra au COSEC de Vaires le 7 septembre de 10h à 17h.
-
-# Pré-inscriptions
-
-En tant que membre du club, vous pouvez vous pré-inscrire et ainsi être prioritaire jusqu'au 31 août 2025, en nous faisant parvenir votre dossier par email, ou en le déposant à l'adresse suivante:
-
-Vaires Badminton
-6 rue des Rossignols
-77360 Vaires-sur-Marne
+Le club est complet pour la saison 2025-2026!
 
 # Le certificat médical n'est plus obligatoire
 
