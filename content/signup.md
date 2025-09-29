@@ -36,9 +36,7 @@ Cotisation: 115€ pour accéder à tous les créneaux, entraînement inclus.
 Vous pouvez régler :
 - par virement (<a href="/files/rib.pdf" target="_blank">notre RIB ici</a>)
 - en espèces
-- par chèque
-- en <a href="https://www.ancv.com/obtenir-le-cheque-vacances" target="_blank">chèques vacances</a>
-- en <a href="https://leguide.ancv.com/page/coupon-sport-pour-vos-envies-sportives" target="_blank">coupons sport</a>
+- par chèque à l'ordre de US Vaires Badminton
 
 Vous êtes peut-être éligible au <a href="https://www.pass.sports.gouv.fr/" target="_blank">pass Sport</a> qui offre 70€ de réduction.
 
